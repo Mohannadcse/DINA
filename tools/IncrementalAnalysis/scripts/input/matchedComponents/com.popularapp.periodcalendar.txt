@@ -1,0 +1,2 @@
+com.popularapp.periodcalendar
+com.popularapp.periodcalendar/.view.NonLeakFacebookAdView

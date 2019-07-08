@@ -1,0 +1,5 @@
+com.endomondo.android
+com.endomondo.android/.common.accessory.connect.bt.BtService$b
+com.endomondo.android/.common.generic.ActivityExt
+com.endomondo.android/.common.pages.PagesManager
+com.endomondo.android/.common.social.contacts.c

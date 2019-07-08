@@ -1,0 +1,3 @@
+jp.ne.hardyinfinity.bluelightfilter.free
+jp.ne.hardyinfinity.bluelightfilter.free/.c
+jp.ne.hardyinfinity.bluelightfilter.free/.d

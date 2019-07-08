@@ -1,0 +1,3 @@
+cx.grapho.melarossa
+cx.grapho.melarossa/.HTMLActivity
+cx.grapho.melarossa/.Other_InformazioniActivity

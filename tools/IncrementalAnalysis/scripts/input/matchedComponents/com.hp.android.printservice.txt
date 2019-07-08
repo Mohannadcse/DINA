@@ -1,0 +1,4 @@
+com.hp.android.printservice
+com.hp.android.printservice/.common.ActivityMoreOptions
+com.hp.android.printservice/.preferences.ActivityPreferenceDetail
+com.hp.android.printservice/.preferences.ActivitySettings

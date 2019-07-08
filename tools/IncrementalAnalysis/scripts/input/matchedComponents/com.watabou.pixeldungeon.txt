@@ -1,0 +1,15 @@
+com.watabou.pixeldungeon
+com.watabou.pixeldungeon/.actors.mobs.Bestiary
+com.watabou.pixeldungeon/.items.Generator
+com.watabou.pixeldungeon/.levels.Room$Type
+com.watabou.pixeldungeon/.items.Heap
+com.watabou.pixeldungeon/.items.Item
+com.watabou.pixeldungeon/.items.armor.Armor$Glyph
+com.watabou.pixeldungeon/.items.weapon.Weapon$Enchantment
+com.watabou.pixeldungeon/.levels.painters.MagicWellPainter
+com.watabou.pixeldungeon/.actors.blobs.Blob
+com.watabou.pixeldungeon/.actors.buffs.Buff
+com.watabou.pixeldungeon/.plants.Plant$Seed
+com.watabou.pixeldungeon/.actors.mobs.Mob
+com.watabou.pixeldungeon/.windows.WndCatalogus$ListItem
+com.watabou.pixeldungeon/.ui.AttackIndicator

@@ -1,0 +1,9 @@
+com.kakao.talk
+com.kakao.talk/.activity.bargain.BargainActivity
+com.kakao.talk/.activity.kakaobuy.KakaoBuyActivity
+com.kakao.talk/.activity.kakaostyle.KakaoStyleActivity
+com.kakao.talk/.application.e
+com.kakao.talk/.compatibility.APICompatibility
+com.kakao.talk/.cover.ui.s
+com.kakao.talk/.db.model.a.b
+com.kakao.talk/.util.br

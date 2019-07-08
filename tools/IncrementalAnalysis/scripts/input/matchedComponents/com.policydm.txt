@@ -1,0 +1,3 @@
+com.policydm
+com.policydm/.adapter.XDMDsdsAdapter
+com.policydm/.eng.core.XDMBase64

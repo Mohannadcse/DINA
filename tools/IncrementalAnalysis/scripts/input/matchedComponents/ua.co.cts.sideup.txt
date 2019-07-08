@@ -1,0 +1,2 @@
+ua.co.cts.sideup
+ua.co.cts.sideup/.PurchaseObserver

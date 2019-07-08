@@ -1,0 +1,5 @@
+com.touchtalent.bobbleapp
+com.touchtalent.bobbleapp/.activities.AppSwitcherWebViewActivity
+com.touchtalent.bobbleapp/.m.f
+com.touchtalent.bobbleapp/.q.ay
+com.touchtalent.bobbleapp/.q.u

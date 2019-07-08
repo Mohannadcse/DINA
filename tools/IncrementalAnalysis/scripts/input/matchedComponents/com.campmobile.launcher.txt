@@ -1,0 +1,15 @@
+com.campmobile.launcher
+com.campmobile.launcher/.LauncherActivity
+com.campmobile.launcher/.akg
+com.campmobile.launcher/.ame
+com.campmobile.launcher/.bjf
+com.campmobile.launcher/.bjg
+com.campmobile.launcher/.boq
+com.campmobile.launcher/.dj
+com.campmobile.launcher/.dx
+com.campmobile.launcher/.ee
+com.campmobile.launcher/.home.appdrawer.AppDrawerView
+com.campmobile.launcher/.kq
+com.campmobile.launcher/.shop.view.ShopPageDetailFragment
+com.campmobile.launcher/.sz
+com.campmobile.launcher

@@ -1,0 +1,3 @@
+com.gipnetix.escapeaction
+com.gipnetix.escapeaction/.scenes.SceneManager$SceneLoader
+com.gipnetix.escapeaction/.scenes.GameScene

@@ -1,0 +1,9 @@
+com.box.android
+com.box.android/.modelcontroller.messages.BoxFileTransferMessage
+com.box.android/.utilities.FileUtil
+com.box.android/.utilities.PRNGFixes
+com.box.android/sdk.content.BoxApiCollaboration
+com.box.android/sdk.content.requests.BoxRequest$BoxRequestHandler
+com.box.android/sdk.content.models.BoxJsonObject$1
+com.box.android/sdk.content.requests.BoxRequestEvent$1
+com.box.android

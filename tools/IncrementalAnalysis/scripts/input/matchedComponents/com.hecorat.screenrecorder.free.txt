@@ -1,0 +1,2 @@
+com.hecorat.screenrecorder.free
+com.hecorat.screenrecorder.free/.activities.MainActivity

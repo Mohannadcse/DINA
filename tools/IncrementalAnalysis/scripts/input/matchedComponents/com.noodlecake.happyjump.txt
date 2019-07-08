@@ -1,0 +1,2 @@
+com.noodlecake.happyjump
+com.noodlecake.happyjump/.android.HappyJump$7

@@ -1,0 +1,5 @@
+com.advancedprocessmanager
+com.advancedprocessmanager/.AlarmReceiver$2
+com.advancedprocessmanager/.AlarmReceiver
+com.advancedprocessmanager/.g$2
+com.advancedprocessmanager/.g

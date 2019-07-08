@@ -1,0 +1,2 @@
+com.gamevil.darknessreborn2.android.google.global.normal
+com.gamevil.darknessreborn2.android.google.global.normal/.JniLib1506386688

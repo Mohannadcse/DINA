@@ -1,0 +1,2 @@
+com.discord
+com.discord/.models.domain.Model$TypeAdapterFactory$1

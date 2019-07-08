@@ -1,0 +1,3 @@
+com.microsoft.office.onenote
+com.microsoft.office.onenote/.commonlibraries.utils.a
+com.microsoft.office.onenote/.ui.utils.ONMCommonUtils

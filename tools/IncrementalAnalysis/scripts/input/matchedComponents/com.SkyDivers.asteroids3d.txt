@@ -1,0 +1,3 @@
+com.SkyDivers.asteroids3d
+com.SkyDivers.asteroids3d/.g$a
+com.SkyDivers.asteroids3d/.ui.DetailActivity

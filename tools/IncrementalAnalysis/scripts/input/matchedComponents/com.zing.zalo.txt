@@ -1,0 +1,6 @@
+com.zing.zalo
+com.zing.zalo/.d.d
+com.zing.zalo/.f.gb
+com.zing.zalo/.j.g
+com.zing.zalo/.qrcode.a.a
+com.zing.zalo/.ui.widget.a.b

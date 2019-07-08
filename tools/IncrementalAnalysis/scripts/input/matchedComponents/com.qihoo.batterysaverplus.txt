@@ -1,0 +1,9 @@
+com.qihoo.batterysaverplus
+com.qihoo.batterysaverplus/.app.DaemonMain
+com.qihoo.batterysaverplus/.app.e$b
+com.qihoo.batterysaverplus/.applock.util.j
+com.qihoo.batterysaverplus/.applock.util.l
+com.qihoo.batterysaverplus/.autorun.c
+com.qihoo.batterysaverplus/.autorun.service.AutorunManagerService
+com.qihoo.batterysaverplus/.crashhandler.b
+com.qihoo.batterysaverplus/.service.BatteryPlusService$c

@@ -1,0 +1,6 @@
+com.chatous.pointblank
+com.chatous.pointblank/.adapter.AMAQuestionsAdapter$3
+com.chatous.pointblank/.model.JSONBackedArray
+com.chatous.pointblank/.util.Reflector
+com.chatous.pointblank/.v2.activity.TopicActivity$TopicQuestionAdapter$PublicQuestionViewHolder$2
+com.chatous.pointblank/.view.viewholder.VHPostActionsLegacy$2

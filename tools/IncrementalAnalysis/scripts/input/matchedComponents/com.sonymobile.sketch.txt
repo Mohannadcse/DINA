@@ -1,0 +1,2 @@
+com.sonymobile.sketch
+com.sonymobile.sketch/.utils.SystemProperties

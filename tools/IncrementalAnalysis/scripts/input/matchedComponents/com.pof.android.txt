@@ -1,0 +1,4 @@
+com.pof.android
+com.pof.android/.activity.SwipeViewsActivity$PagerAdapter
+com.pof.android/.util.EnvUtil
+com.pof.android/.util.NotificationsUtil

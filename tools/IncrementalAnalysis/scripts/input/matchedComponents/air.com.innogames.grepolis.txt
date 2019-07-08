@@ -1,0 +1,2 @@
+air.com.innogames.grepolis
+air.com.innogames.grepolis/.AppEntry

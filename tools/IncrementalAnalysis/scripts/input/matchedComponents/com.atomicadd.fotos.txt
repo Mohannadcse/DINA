@@ -1,0 +1,3 @@
+com.atomicadd.fotos
+com.atomicadd.fotos/.moments.s
+com.atomicadd.fotos/.util.b.b

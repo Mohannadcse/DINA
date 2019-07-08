@@ -1,0 +1,4 @@
+com.gameloft.android.ANMP.GloftGF2F
+com.gameloft.android.ANMP.GloftGF2F/.IGPFreemiumActivity
+com.gameloft.android.ANMP.GloftGF2F/.Start
+com.gameloft.android.ANMP.GloftGF2F/.i

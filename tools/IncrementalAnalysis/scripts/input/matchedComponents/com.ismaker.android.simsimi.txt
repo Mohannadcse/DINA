@@ -1,0 +1,2 @@
+com.ismaker.android.simsimi
+com.ismaker.android.simsimi/.SimSimiApp

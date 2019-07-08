@@ -1,0 +1,2 @@
+com.quizlet.quizletandroid
+com.quizlet.quizletandroid/.ui.common.views.QuizletDatePickerDialog

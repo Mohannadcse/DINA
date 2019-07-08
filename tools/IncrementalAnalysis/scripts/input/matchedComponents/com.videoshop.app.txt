@@ -1,0 +1,2 @@
+com.videoshop.app
+com.videoshop.app/.ui.activity.b

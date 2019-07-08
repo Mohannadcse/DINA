@@ -1,0 +1,5 @@
+com.aldiko.android
+com.aldiko.android/.a.a.f
+com.aldiko.android/.g.ao
+com.aldiko.android/.reader.ReaderActivity
+com.aldiko.android/.ui.az$5

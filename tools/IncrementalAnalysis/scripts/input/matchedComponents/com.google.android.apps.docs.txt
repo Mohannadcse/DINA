@@ -1,0 +1,3 @@
+com.google.android.apps.docs
+com.google.android.apps.docs/.doclist.gridview.RippleOverlayView
+com.google.android.apps.docs/.drive.inject.corecomponentfactory.CoreComponentFactoryImpl

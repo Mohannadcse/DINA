@@ -1,0 +1,2 @@
+com.google.android.apps.paidtasks
+com.google.android.apps.paidtasks/.JsonConverter

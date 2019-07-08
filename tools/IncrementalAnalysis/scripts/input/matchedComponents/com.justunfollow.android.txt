@@ -1,0 +1,3 @@
+com.justunfollow.android
+com.justunfollow.android/.prescriptionsActivity.prescriptions.BasePrescriptionFragment
+com.justunfollow.android/.v1.activity.HomeActivity

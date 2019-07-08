@@ -1,0 +1,7 @@
+com.anghami
+com.anghami/.data.d.b.c
+com.anghami/.player.core.c$a
+com.anghami/.player.core.c
+com.anghami/.player.core.d
+com.anghami/.player.h.a
+com.anghami/.ui.navigation.c

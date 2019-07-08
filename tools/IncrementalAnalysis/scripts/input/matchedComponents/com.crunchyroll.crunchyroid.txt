@@ -1,0 +1,2 @@
+com.crunchyroll.crunchyroid
+com.crunchyroll.crunchyroid/.receivers.ForwardingReceiver

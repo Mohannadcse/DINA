@@ -1,0 +1,7 @@
+org.thoughtcrime.securesms
+org.thoughtcrime.securesms/.crypto.PRNGFixes
+org.thoughtcrime.securesms/.database.MessagingDatabase
+org.thoughtcrime.securesms/.mms.LegacyMmsConnection
+org.thoughtcrime.securesms/.util.MemoryFileUtil
+org.thoughtcrime.securesms/.webrtc.IncomingPstnCallReceiver$InCallListener
+org.thoughtcrime.securesms/.webrtc.locks.ProximityLock

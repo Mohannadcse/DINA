@@ -1,0 +1,2 @@
+com.overdrive.mobile.android.mediaconsole
+com.overdrive.mobile.android.mediaconsole/.Activity_Holder

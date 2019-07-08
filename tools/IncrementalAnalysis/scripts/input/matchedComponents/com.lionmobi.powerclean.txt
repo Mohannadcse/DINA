@@ -1,0 +1,10 @@
+com.lionmobi.powerclean
+com.lionmobi.powerclean/.activity.AnimationActivity
+com.lionmobi.powerclean/.activity.SplashActivity
+com.lionmobi.powerclean/.manager.ToolsbarManager
+com.lionmobi.powerclean/.manager.aj
+com.lionmobi.powerclean/.manager.al
+com.lionmobi.powerclean/.manager.b
+com.lionmobi.powerclean/.manager.k
+com.lionmobi.powerclean/.manager.r
+com.lionmobi.powerclean/.manager.x

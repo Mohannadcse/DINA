@@ -1,0 +1,2 @@
+air.com.spicerackmedia.bingoshowdown
+air.com.spicerackmedia.bingoshowdown/.AppEntry

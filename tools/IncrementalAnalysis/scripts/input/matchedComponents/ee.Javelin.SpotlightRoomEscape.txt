@@ -1,0 +1,2 @@
+ee.Javelin.SpotlightRoomEscape
+ee.Javelin.SpotlightRoomEscape/.AppEntry

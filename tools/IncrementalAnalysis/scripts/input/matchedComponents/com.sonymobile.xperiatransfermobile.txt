@@ -1,0 +1,4 @@
+com.sonymobile.xperiatransfermobile
+com.sonymobile.xperiatransfermobile/.communication.b.a.b$b
+com.sonymobile.xperiatransfermobile/.util.b.b$a
+com.sonymobile.xperiatransfermobile/.util.u

@@ -1,0 +1,2 @@
+com.ea.gp.fifamobile
+com.ea.gp.fifamobile/.FifaMainActivity

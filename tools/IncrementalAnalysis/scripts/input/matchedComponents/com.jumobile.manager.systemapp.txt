@@ -1,0 +1,7 @@
+com.jumobile.manager.systemapp
+com.jumobile.manager.systemapp/.d.a
+com.jumobile.manager.systemapp/.d.e
+com.jumobile.manager.systemapp/.d.g
+com.jumobile.manager.systemapp/.g.a
+com.jumobile.manager.systemapp/.ui.widget.slidingmenu.SlidingMenu
+com.jumobile.manager.systemapp/.util.f

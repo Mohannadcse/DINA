@@ -1,0 +1,2 @@
+com.wooga.diamonddash
+com.wooga.diamonddash/.gcm_notifications.GCMRegistrar

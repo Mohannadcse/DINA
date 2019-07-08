@@ -1,0 +1,2 @@
+com.ketchapp.skyward
+com.ketchapp.skyward/.AppEntry

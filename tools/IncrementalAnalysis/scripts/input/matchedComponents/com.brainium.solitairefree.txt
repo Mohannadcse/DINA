@@ -1,0 +1,2 @@
+com.brainium.solitairefree
+com.brainium.solitairefree

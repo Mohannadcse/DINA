@@ -1,0 +1,2 @@
+com.mykeyboard.myphotokeyboard
+com.mykeyboard.myphotokeyboard/.Utils

@@ -1,0 +1,4 @@
+com.n7mobile.nplayer
+com.n7mobile.nplayer/.audio.eq.VerticalSeekBar2
+com.n7mobile.nplayer/.catalog.folders.FragmentFolders$b
+com.n7mobile.nplayer/.views.VerticalSeekBar

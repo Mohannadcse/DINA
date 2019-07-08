@@ -1,0 +1,2 @@
+com.scee.psxandroid
+com.scee.psxandroid/.f.d

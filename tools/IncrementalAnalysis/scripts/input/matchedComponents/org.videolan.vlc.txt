@@ -1,0 +1,2 @@
+org.videolan.vlc
+org.videolan.vlc/.gui.video.VideoPlayerActivity

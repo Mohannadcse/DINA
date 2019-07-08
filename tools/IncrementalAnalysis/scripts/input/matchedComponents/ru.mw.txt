@@ -1,0 +1,11 @@
+ru.mw
+ru.mw/.authentication.presenters.ChangePinPresenter$3$2
+ru.mw/.authentication.presenters.ChangePinPresenter$3
+ru.mw/.gcm.GoogleCloudMessagingService
+ru.mw/.utils.Utils
+ru.mw/.authentication.fragments.CreatePinFragment
+ru.mw/.authentication.fragments.LockerV3Fragment
+ru.mw/.authentication.presenters.ChangePinPresenter$3$4
+ru.mw/.fingerprint.FingerPrintAuthenticationDialogFragment
+ru.mw/.fingerprint.FingerPrintDialogFragment
+ru.mw/.authentication.presenters.PinPresenter

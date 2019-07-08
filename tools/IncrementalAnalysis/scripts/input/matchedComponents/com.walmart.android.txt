@@ -1,0 +1,3 @@
+com.walmart.android
+com.walmart.android/.app.main.WalmartStartActivity
+com.walmart.android/.ui.CustomProgressDialog

@@ -1,0 +1,3 @@
+com.cervomedia.spw
+com.cervomedia.spw/.DeviceIdentifierControl
+com.cervomedia.spw

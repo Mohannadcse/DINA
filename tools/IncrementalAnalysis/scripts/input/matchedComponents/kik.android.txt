@@ -1,0 +1,4 @@
+kik.android
+kik.android/.chat.activity.FragmentWrapperActivity
+kik.android/.chat.fragment.SimpleFragmentWrapperActivity
+kik.android/.chat.fragment.settings.PreferenceFragment

@@ -1,0 +1,5 @@
+video.player.audio.player.music
+video.player.audio.player.music/.audio.AudioServiceController
+video.player.audio.player.music/.gui.video.VideoGridFragment
+video.player.audio.player.music/.widget.SlidingPaneLayout$SlidingPanelLayoutImplJB
+video.player.audio.player.music/.gui.video.VideoPlayerActivity

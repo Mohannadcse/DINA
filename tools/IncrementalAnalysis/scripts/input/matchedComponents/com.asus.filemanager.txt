@@ -1,0 +1,8 @@
+com.asus.filemanager
+com.asus.filemanager/.activity.HttpServerActivity
+com.asus.filemanager/.adapter.af
+com.asus.filemanager/.adapter.bn
+com.asus.filemanager/.utility.ah
+com.asus.filemanager/.utility.bl
+com.asus.filemanager/.utility.by
+com.asus.filemanager/.utility.ca

@@ -1,0 +1,3 @@
+com.intellectualflame.ledflashlight.washer
+com.intellectualflame.ledflashlight.washer/.FlashlightActivity
+com.intellectualflame.ledflashlight.washer/.b.j

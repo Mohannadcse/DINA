@@ -1,0 +1,3 @@
+com.myyearbook.m
+com.myyearbook.m/.MYBApplication$LeakResolvers
+com.myyearbook.m/.service.api.login.LoginFeaturesResult

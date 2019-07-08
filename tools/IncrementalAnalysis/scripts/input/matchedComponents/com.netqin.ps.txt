@@ -1,0 +1,12 @@
+com.netqin.ps
+com.netqin.ps/.applock.c.e
+com.netqin.ps/.b.f
+com.netqin.ps/.billing.d
+com.netqin.ps/.encrypt.b
+com.netqin.ps/.privacy.adapter.c
+com.netqin.ps/.privacy.adapter.q
+com.netqin.ps/.statistics.TelephonyInfo
+com.netqin.ps/.view.image.views.GestureImageView
+com.netqin.ps/.view.ripple.adapter.PropertyValuesHolder
+com.netqin.ps/.view.ripple.adapter.PropertyValuesHolder$FloatPropertyValuesHolder
+com.netqin.ps/.vip.a

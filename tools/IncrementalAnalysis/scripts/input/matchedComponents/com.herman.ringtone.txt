@@ -1,0 +1,4 @@
+com.herman.ringtone
+com.herman.ringtone/.jaudiotagger.tag.id3.AbstractID3v2Frame
+com.herman.ringtone/.jaudiotagger.tag.id3.ID3Tags
+com.herman.ringtone/.jaudiotagger.tag.id3.ID3v22Frame

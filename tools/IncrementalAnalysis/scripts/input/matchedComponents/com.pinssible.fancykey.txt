@@ -1,0 +1,3 @@
+com.pinssible.fancykey
+com.pinssible.fancykey/.f.b
+com.pinssible.fancykey/.f.s

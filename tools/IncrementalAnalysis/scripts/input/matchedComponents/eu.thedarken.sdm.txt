@@ -1,0 +1,15 @@
+eu.thedarken.sdm
+eu.thedarken.sdm/.appcleaner.core.filter.c
+eu.thedarken.sdm/.appcontrol.core.modules.estate.EstateSource
+eu.thedarken.sdm/.settings.SettingsActivity
+eu.thedarken.sdm/.systemcleaner.core.filter.b
+eu.thedarken.sdm/.tools.ag
+eu.thedarken.sdm/.tools.b
+eu.thedarken.sdm/.tools.s
+eu.thedarken.sdm/.tools.storage.oswrapper.a.a
+eu.thedarken.sdm/.tools.storage.oswrapper.a.b
+eu.thedarken.sdm/.tools.storage.oswrapper.a.c
+eu.thedarken.sdm/.tools.storage.oswrapper.a.d
+eu.thedarken.sdm/.tools.storage.oswrapper.mapper.b
+eu.thedarken.sdm/.tools.storage.oswrapper.mapper.c
+eu.thedarken.sdm/.tools.worker.h

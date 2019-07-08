@@ -1,0 +1,2 @@
+air.com.sulake.habboair
+air.com.sulake.habboair/.AppEntry

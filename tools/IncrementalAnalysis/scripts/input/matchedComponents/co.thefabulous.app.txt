@@ -1,0 +1,4 @@
+co.thefabulous.app
+co.thefabulous.app/.deeplink.DeepLinkDelegate
+co.thefabulous.app/.ui.i.l
+co.thefabulous.app/.util.a.a

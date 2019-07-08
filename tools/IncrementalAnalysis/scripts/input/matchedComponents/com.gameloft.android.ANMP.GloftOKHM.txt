@@ -1,0 +1,13 @@
+com.gameloft.android.ANMP.GloftOKHM
+com.gameloft.android.ANMP.GloftOKHM/.GLUtils.Device
+com.gameloft.android.ANMP.GloftOKHM/.OneKnightStand
+com.gameloft.android.ANMP.GloftOKHM/.SendInfo
+com.gameloft.android.ANMP.GloftOKHM/.iab.GMPHelper
+com.gameloft.android.ANMP.GloftOKHM/.iab.e
+com.gameloft.android.ANMP.GloftOKHM/.iab.g
+com.gameloft.android.ANMP.GloftOKHM/.iab.j
+com.gameloft.android.ANMP.GloftOKHM/.iab.m
+com.gameloft.android.ANMP.GloftOKHM/.iab.o
+com.gameloft.android.ANMP.GloftOKHM/.iab.p
+com.gameloft.android.ANMP.GloftOKHM/.iab.utils.Device
+com.gameloft.android.ANMP.GloftOKHM/.iab.w

@@ -1,0 +1,4 @@
+mobi.infolife.eraser
+mobi.infolife.eraser/.CacheManager
+mobi.infolife.eraser/.ClearService
+mobi.infolife.eraser/.DefaultAppSwitcher

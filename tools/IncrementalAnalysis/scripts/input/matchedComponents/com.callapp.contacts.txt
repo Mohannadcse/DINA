@@ -1,0 +1,8 @@
+com.callapp.contacts
+com.callapp.contacts/.api.helper.linkedin.LinkedInHelper
+com.callapp.contacts/.framework.util.ReflectionUtils
+com.callapp.contacts/.manager.NotificationManager
+com.callapp.contacts/.manager.SimManager
+com.callapp.contacts/.manager.phone.PhoneManager
+com.callapp.contacts/.util.Activities
+com.callapp.contacts

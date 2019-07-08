@@ -1,0 +1,3 @@
+com.cheerfulinc.flipagram
+com.cheerfulinc.flipagram/.api.Daos
+com.cheerfulinc.flipagram/.http.ReflectionCallbacks

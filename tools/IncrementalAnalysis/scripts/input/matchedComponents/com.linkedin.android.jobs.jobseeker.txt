@@ -1,0 +1,2 @@
+com.linkedin.android.jobs.jobseeker
+com.linkedin.android.jobs.jobseeker/.util.CookieUtils

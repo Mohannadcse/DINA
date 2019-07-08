@@ -1,0 +1,2 @@
+com.google.android.apps.youtube.music
+com.google.android.apps.youtube.music/.application.YouTubeMusicApplication

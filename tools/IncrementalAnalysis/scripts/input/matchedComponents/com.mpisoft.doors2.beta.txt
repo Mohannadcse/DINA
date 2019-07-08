@@ -1,0 +1,2 @@
+com.mpisoft.doors2.beta
+com.mpisoft.doors2.beta/.managers.SceneManager

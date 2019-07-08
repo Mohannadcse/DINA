@@ -1,0 +1,4 @@
+com.naturalmotion.csrclassics
+com.naturalmotion.csrclassics/.CSRPlatform
+com.naturalmotion.csrclassics/.ClassicsPlayerActivity
+com.naturalmotion.csrclassics/.csr_config.CSRConfig

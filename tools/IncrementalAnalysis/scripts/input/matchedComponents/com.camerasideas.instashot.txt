@@ -1,0 +1,5 @@
+com.camerasideas.instashot
+com.camerasideas.instashot/.InstashotApplication
+com.camerasideas.instashot/.crop.CropImageView
+com.camerasideas.instashot/.widget.SwitchCompatFix
+com.camerasideas.instashot

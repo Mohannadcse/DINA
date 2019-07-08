@@ -1,0 +1,2 @@
+com.vnlentertainment.mmoproject
+com.vnlentertainment.mmoproject/.CustomUnityActivity

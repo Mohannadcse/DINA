@@ -1,0 +1,2 @@
+com.rubycell.pianisthd
+com.rubycell.pianisthd/.demo.k

@@ -1,0 +1,5 @@
+com.stt.android
+com.stt.android/.bluetooth.Hrm1ConnectThread
+com.stt.android/.bluetooth.Hrm2ConnectThread
+com.stt.android/.controllers.UserSettingsController
+com.stt.android/.home.settings.ExtendedPreferenceFragmentCompat

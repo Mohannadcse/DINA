@@ -1,0 +1,3 @@
+com.nianticlabs.pokemongo
+com.nianticlabs.pokemongo/plus.SfidaPeripheral
+com.nianticlabs.pokemongo/plus.SfidaUtils

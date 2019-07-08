@@ -1,0 +1,7 @@
+com.avast.android.cleaner
+com.avast.android.cleaner/.analyzers.battery.BatteryPowerSampler
+com.avast.android.cleaner/.batteryoptimizer.settings.BatteryOptimizerSettingMobileData
+com.avast.android.cleaner/.notifications.receiver.NotificationReceiver
+com.avast.android.cleaner/core.device.DevicePackageManager
+com.avast.android.cleaner/core.device.DeviceStorageManager
+com.avast.android.cleaner/core.scanner.ScannerCore

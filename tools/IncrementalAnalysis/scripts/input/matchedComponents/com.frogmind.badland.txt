@@ -1,0 +1,2 @@
+com.frogmind.badland
+com.frogmind.badland/.ClassHandler

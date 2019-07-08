@@ -1,0 +1,3 @@
+cn.wps.moffice_eng
+cn.wps.moffice_eng/.wxapi.WXEntryActivity$2
+cn.wps.moffice_eng/.wxapi.WXEntryActivity

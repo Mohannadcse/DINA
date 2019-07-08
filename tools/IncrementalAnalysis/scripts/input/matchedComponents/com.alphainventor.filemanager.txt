@@ -1,0 +1,6 @@
+com.alphainventor.filemanager
+com.alphainventor.filemanager/.activity.MainActivity
+com.alphainventor.filemanager/.c.b
+com.alphainventor.filemanager/.h.r
+com.alphainventor.filemanager/.k.c
+com.alphainventor.filemanager/.q.h

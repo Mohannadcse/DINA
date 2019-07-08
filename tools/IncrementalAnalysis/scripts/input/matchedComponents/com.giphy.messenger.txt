@@ -1,0 +1,4 @@
+com.giphy.messenger
+com.giphy.messenger/.app.d
+com.giphy.messenger/.f.b
+com.giphy.messenger/.k.p

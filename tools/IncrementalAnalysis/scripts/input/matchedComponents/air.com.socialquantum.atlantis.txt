@@ -1,0 +1,2 @@
+air.com.socialquantum.atlantis
+air.com.socialquantum.atlantis/.AppEntry

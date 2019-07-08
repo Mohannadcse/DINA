@@ -1,0 +1,7 @@
+com.domobile.applock
+com.domobile.applock/.AgentActivity
+com.domobile.applock/.fake.b
+com.domobile.applock/.g.c
+com.domobile.applock/.r
+com.domobile.applock/.receiver.SwitcherLockReceiver
+com.domobile.applock/.theme.c

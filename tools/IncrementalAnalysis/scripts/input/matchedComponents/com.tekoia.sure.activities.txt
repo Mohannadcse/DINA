@@ -1,0 +1,1 @@
+com.tekoia.sure.activities

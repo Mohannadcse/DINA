@@ -1,0 +1,2 @@
+air.com.dpflashes.clearvision3
+air.com.dpflashes.clearvision3/.AppEntry

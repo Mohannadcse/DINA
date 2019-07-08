@@ -1,0 +1,3 @@
+com.giantssoftware.fs14
+com.giantssoftware.fs14/.FS14Activity$1
+com.giantssoftware.fs14/.WifiDevice

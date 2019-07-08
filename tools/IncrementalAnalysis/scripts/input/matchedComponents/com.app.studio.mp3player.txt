@@ -1,0 +1,4 @@
+com.app.studio.mp3player
+com.app.studio.mp3player/.RemoteControlClientCompat$MetadataEditorCompat
+com.app.studio.mp3player/.RemoteControlClientCompat
+com.app.studio.mp3player/.SharedPreferencesCompat

@@ -1,0 +1,5 @@
+com.tap4fun.spartanwar
+com.tap4fun.spartanwar/.utils.gl.GLThreadTask$1
+com.tap4fun.spartanwar/.utils.gl.GLThreadTask$2$1
+com.tap4fun.spartanwar/.utils.gl.GLThreadTask$3
+com.tap4fun.spartanwar/.utils.webview.WebViewUtils

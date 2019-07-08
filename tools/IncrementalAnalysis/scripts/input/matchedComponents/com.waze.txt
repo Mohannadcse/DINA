@@ -1,0 +1,4 @@
+com.waze
+com.waze/.animation.easing.AnimationEasingManager$EasingInterpolator
+com.waze/.animation.easing.AnimationEasingManager$Ticker
+com.waze/.animation.easing.AnimationEasingManager

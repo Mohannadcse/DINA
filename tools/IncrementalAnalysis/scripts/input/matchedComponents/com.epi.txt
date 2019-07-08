@@ -1,0 +1,3 @@
+com.epi
+com.epi/.app.view.BaseRecyclerView
+com.epi/.app.view.channelcustomcoordinatorlayout.CoordinatorLayout

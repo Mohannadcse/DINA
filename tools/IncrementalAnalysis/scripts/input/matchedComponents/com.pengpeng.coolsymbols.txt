@@ -1,0 +1,3 @@
+com.pengpeng.coolsymbols
+com.pengpeng.coolsymbols/.NotificationReceiver
+com.pengpeng.coolsymbols/.Tips$1

@@ -1,0 +1,2 @@
+ru.kinopoisk
+ru.kinopoisk/.activity.fragments.drumpicker.c

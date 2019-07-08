@@ -1,0 +1,5 @@
+com.farproc.wifi.analyzer
+com.farproc.wifi.analyzer/.MainScreen
+com.farproc.wifi.analyzer/.f
+com.farproc.wifi.analyzer/.views.j$b
+com.farproc.wifi.analyzer/.views.j

@@ -1,0 +1,12 @@
+com.sec.android.app.sbrowser
+com.sec.android.app.sbrowser/.certificate.PKCS11KeyStore
+com.sec.android.app.sbrowser/.firefox.FxDexClassLoader
+com.sec.android.app.sbrowser/.firefox.FxDexClassLoaderUtil
+com.sec.android.app.sbrowser/.mcafee.AnshinScanHelper
+com.sec.android.app.sbrowser/.media.player.video.MPStandaloneVideoView
+com.sec.android.app.sbrowser/.provider.SBrowserProviderUtility
+com.sec.android.app.sbrowser/.sites.Sites
+com.sec.android.app.sbrowser/.sync.SyncDelegate
+com.sec.android.app.sbrowser/.vrbrowser.VrBrowserInternalInstallerUtil
+com.sec.android.app.sbrowser/.vrbrowser.VrBrowserMediaBridge
+com.sec.android.app.sbrowser/.vrbrowser.VrBrowserPluginFactory

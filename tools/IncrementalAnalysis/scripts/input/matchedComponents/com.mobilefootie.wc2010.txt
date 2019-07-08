@@ -1,0 +1,2 @@
+com.mobilefootie.wc2010
+com.mobilefootie.wc2010/.FotMobApp

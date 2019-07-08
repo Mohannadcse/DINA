@@ -1,0 +1,5 @@
+com.devhd.feedly
+com.devhd.feedly/.bridge.TwoWayBridge$Exec
+com.devhd.feedly/.bridge.TwoWayBridge
+com.devhd.feedly/.command.WM
+com.devhd.feedly/.streets.AsyncRequest

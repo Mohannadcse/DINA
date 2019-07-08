@@ -1,0 +1,17 @@
+com.latedroid.juicedefender
+com.latedroid.juicedefender/.App
+com.latedroid.juicedefender/.NetworkModeBox
+com.latedroid.juicedefender/.ap
+com.latedroid.juicedefender/.aq
+com.latedroid.juicedefender/.ar
+com.latedroid.juicedefender/.as
+com.latedroid.juicedefender/.bf
+com.latedroid.juicedefender/.bj
+com.latedroid.juicedefender/.ct
+com.latedroid.juicedefender/.cy
+com.latedroid.juicedefender/.dr
+com.latedroid.juicedefender/.ef
+com.latedroid.juicedefender/.eg
+com.latedroid.juicedefender/.eh
+com.latedroid.juicedefender/.f
+com.latedroid.juicedefender/.l

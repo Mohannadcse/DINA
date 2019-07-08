@@ -1,0 +1,2 @@
+com.icecoldapps.screenshoteasy
+com.icecoldapps.screenshoteasy/.classes.general.n

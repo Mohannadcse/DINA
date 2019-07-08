@@ -1,0 +1,2 @@
+com.pixlr.express
+com.pixlr.express/.PixlrExpressActivity

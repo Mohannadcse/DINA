@@ -1,0 +1,12 @@
+com.netqin.mobileguard
+com.netqin.mobileguard/.ad.baike.BaiKeActivity
+com.netqin.mobileguard/.ad.baike.cleanapk.CleanSelectActivity
+com.netqin.mobileguard/.ad.uninstall.e
+com.netqin.mobileguard/.app.widget.SettingsAppWidgetProvider$a
+com.netqin.mobileguard/.junkfilemanager.g
+com.netqin.mobileguard/.junkfilemanager.ui.JunkCleanActivity
+com.netqin.mobileguard/.junkfilemanager.ui.a
+com.netqin.mobileguard/.optimization.f
+com.netqin.mobileguard/.packagemanager.a
+com.netqin.mobileguard/.util.o
+com.netqin.mobileguard/.util.x

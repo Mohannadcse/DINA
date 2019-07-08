@@ -1,0 +1,2 @@
+air.com.g5e.bravetribe
+air.com.g5e.bravetribe/.AppEntry

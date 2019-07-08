@@ -1,0 +1,5 @@
+com.campmobile.android.linedeco
+com.campmobile.android.linedeco/.ui.more.w
+com.campmobile.android.linedeco/.ui.newcard.factory.CardFactory
+com.campmobile.android.linedeco/.ui.recycler.d.g
+com.campmobile.android.linedeco

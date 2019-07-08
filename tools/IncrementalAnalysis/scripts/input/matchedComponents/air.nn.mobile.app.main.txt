@@ -1,0 +1,2 @@
+air.nn.mobile.app.main
+air.nn.mobile.app.main/.AppEntry

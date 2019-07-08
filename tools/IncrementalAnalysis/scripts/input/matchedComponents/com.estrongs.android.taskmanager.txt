@@ -1,0 +1,6 @@
+com.estrongs.android.taskmanager
+com.estrongs.android.taskmanager/.b.b
+com.estrongs.android.taskmanager/.e.a
+com.estrongs.android.taskmanager/.l
+com.estrongs.android.taskmanager/.k
+com.estrongs.android.taskmanager/.tools.ApplicationMan

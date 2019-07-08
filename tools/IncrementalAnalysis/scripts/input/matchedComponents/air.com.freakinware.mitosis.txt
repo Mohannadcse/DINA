@@ -1,0 +1,2 @@
+air.com.freakinware.mitosis
+air.com.freakinware.mitosis/.AppEntry

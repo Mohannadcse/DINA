@@ -1,0 +1,7 @@
+pawapp.games.onetdeluxe
+pawapp.games.onetdeluxe/.clsconnection
+pawapp.games.onetdeluxe/.gameplayv3
+pawapp.games.onetdeluxe/.keyvalue
+pawapp.games.onetdeluxe/.keyvaluestore
+pawapp.games.onetdeluxe/.main
+pawapp.games.onetdeluxe/.starter

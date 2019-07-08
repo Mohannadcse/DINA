@@ -1,0 +1,3 @@
+com.nis.app
+com.nis.app/.common.DisplayAgent
+com.nis.app/.ui.customviews.VerticalViewPager

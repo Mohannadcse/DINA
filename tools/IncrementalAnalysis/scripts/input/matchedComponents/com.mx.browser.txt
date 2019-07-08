@@ -1,0 +1,9 @@
+com.mx.browser
+com.mx.browser/.addons.AndroidAddon
+com.mx.browser/.addons.TabViewExPoint$BrowserClientViewWrapper
+com.mx.browser/.addons.ai
+com.mx.browser/.addons.al
+com.mx.browser/.bp
+com.mx.browser/.d
+com.mx.browser/.e.a
+com.mx.browser/.multiwindow.baseui.OverScroller

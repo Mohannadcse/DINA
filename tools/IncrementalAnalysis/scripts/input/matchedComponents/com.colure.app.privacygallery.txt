@@ -1,0 +1,2 @@
+com.colure.app.privacygallery
+com.colure.app.privacygallery/.lock.PatternActivity

@@ -1,0 +1,2 @@
+com.digitalpalette.pizap
+com.digitalpalette.pizap/.editor.effects.GPUImageFilterTools

@@ -1,0 +1,1 @@
+com.psiphon3.subscription

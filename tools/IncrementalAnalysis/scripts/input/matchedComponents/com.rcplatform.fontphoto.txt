@@ -1,0 +1,2 @@
+com.rcplatform.fontphoto
+com.rcplatform.fontphoto/.activity.PrivacyPolicyActivity

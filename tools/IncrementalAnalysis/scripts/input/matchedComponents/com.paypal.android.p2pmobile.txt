@@ -1,0 +1,3 @@
+com.paypal.android.p2pmobile
+com.paypal.android.p2pmobile/.navigation.activity.NodeActivity
+com.paypal.android.p2pmobile/.ecistore.managers.EnhancedCheckinWebViewBridge

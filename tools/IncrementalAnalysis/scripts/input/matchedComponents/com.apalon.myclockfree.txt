@@ -1,0 +1,5 @@
+com.apalon.myclockfree
+com.apalon.myclockfree/.g.a
+com.apalon.myclockfree/.service.WidgetUpdateService
+com.apalon.myclockfree/.widget.b
+com.apalon.myclockfree/.xternal.ExtensionManager

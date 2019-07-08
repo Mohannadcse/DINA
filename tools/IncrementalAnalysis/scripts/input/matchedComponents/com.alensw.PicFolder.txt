@@ -1,0 +1,2 @@
+com.alensw.PicFolder
+com.alensw.PicFolder/.PlayerView

@@ -1,0 +1,6 @@
+com.amazon.kindle
+com.amazon.kindle/.event.EventProviderDB
+com.amazon.kindle/.panels.ReaderLeftPanelProviderProvider
+com.amazon.kindle/.services.events.PubSubMessageService
+com.amazon.kindle/.util.SystemProperties
+com.amazon.kindle/.utils.KindleDexClassLoader

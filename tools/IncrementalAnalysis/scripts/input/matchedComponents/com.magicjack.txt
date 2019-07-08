@@ -1,0 +1,5 @@
+com.magicjack
+com.magicjack/.e.p
+com.magicjack/.f.c
+com.magicjack/.fj
+com.magicjack/.ui.d.c

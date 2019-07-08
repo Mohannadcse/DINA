@@ -1,0 +1,1 @@
+com.opera.mini.native.beta

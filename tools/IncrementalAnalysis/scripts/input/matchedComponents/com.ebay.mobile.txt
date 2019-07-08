@@ -1,0 +1,6 @@
+com.ebay.mobile
+com.ebay.mobile/.NfcCompat$1
+com.ebay.mobile/.NfcCompat
+com.ebay.mobile/.StrictModeCompat
+com.ebay.mobile/.common.view.RecyclerContentAdapter$ViewHolderClassToModelMapping$HolderClassInfo
+com.ebay.mobile/.preference.DcsOverridePreferenceFragment$DomainCollection$1

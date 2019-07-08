@@ -1,0 +1,3 @@
+com.sp.protector.free
+com.sp.protector.free/.engine.SAPServiceKernel
+com.sp.protector.free/.engine.cx

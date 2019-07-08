@@ -1,0 +1,4 @@
+com.pinger.textfree
+com.pinger.textfree/.call.swipe.SwipeLayout
+com.pinger.textfree/.call.util.a.i$w
+com.pinger.textfree/.call.util.a.i$y

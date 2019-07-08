@@ -1,0 +1,2 @@
+mobi.drupe.app
+mobi.drupe.app/.j.o

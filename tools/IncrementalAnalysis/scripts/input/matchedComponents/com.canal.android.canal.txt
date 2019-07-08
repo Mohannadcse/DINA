@@ -1,0 +1,2 @@
+com.canal.android.canal
+com.canal.android.canal

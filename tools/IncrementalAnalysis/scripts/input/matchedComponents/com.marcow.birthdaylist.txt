@@ -1,0 +1,2 @@
+com.marcow.birthdaylist
+com.marcow.birthdaylist/.Browser

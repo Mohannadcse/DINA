@@ -1,0 +1,3 @@
+com.jessdev.hdcameras
+com.jessdev.hdcameras/.ImageManager
+com.jessdev.hdcameras/.u

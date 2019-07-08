@@ -1,0 +1,2 @@
+com.enlightment.screenshot
+com.enlightment.screenshot/.ScreenshotService

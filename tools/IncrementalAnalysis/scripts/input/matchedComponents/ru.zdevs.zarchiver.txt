@@ -1,0 +1,5 @@
+ru.zdevs.zarchiver
+ru.zdevs.zarchiver/.ZArchiver
+ru.zdevs.zarchiver/.activity.AboutDlg
+ru.zdevs.zarchiver/.io.ZAIO
+ru.zdevs.zarchiver/.tool.v

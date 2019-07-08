@@ -1,0 +1,6 @@
+com.jb.gokeyboard
+com.jb.gokeyboard/.common.util.GOMemPrintService
+com.jb.gokeyboard/.common.util.e
+com.jb.gokeyboard/.common.util.i
+com.jb.gokeyboard/.engine.CompatUtils
+com.jb.gokeyboard/.i.a

@@ -1,0 +1,1 @@
+com.inovel.app.yemeksepeti

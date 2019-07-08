@@ -1,0 +1,2 @@
+com.kmplayer
+com.kmplayer/.utils.AndroidDevicesUtil

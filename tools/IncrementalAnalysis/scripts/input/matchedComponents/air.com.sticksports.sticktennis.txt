@@ -1,0 +1,2 @@
+air.com.sticksports.sticktennis
+air.com.sticksports.sticktennis/.AppEntry

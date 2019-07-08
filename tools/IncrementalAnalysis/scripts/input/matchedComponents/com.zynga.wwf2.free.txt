@@ -1,0 +1,3 @@
+com.zynga.wwf2.free
+com.zynga.wwf2.free/.co
+com.zynga.wwf2.free/.cp

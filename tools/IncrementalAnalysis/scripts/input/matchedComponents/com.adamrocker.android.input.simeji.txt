@@ -1,0 +1,7 @@
+com.adamrocker.android.input.simeji
+com.adamrocker.android.input.simeji/.OpenWnnSimeji
+com.adamrocker.android.input.simeji/.framework.imp.PlusWindow
+com.adamrocker.android.input.simeji/.plugin.PluginWindow
+com.adamrocker.android.input.simeji/.util.BaiduSimeji
+com.adamrocker.android.input.simeji/.util.SaveModeUtils
+com.adamrocker.android.input.simeji/.util.UserLog

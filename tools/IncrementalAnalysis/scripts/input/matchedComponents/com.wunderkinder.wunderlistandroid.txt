@@ -1,0 +1,2 @@
+com.wunderkinder.wunderlistandroid
+com.wunderkinder.wunderlistandroid/.activity.WLNewFeatureActivity

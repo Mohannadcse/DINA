@@ -1,0 +1,17 @@
+com.loudtalks
+com.loudtalks/.client.i.a.d
+com.loudtalks/.client.ui.ListViewEx
+com.loudtalks/.client.ui.Svc
+com.loudtalks/.client.ui.abu
+com.loudtalks/.client.ui.actionbar.a
+com.loudtalks/.client.ui.camera.b
+com.loudtalks/.client.ui.e
+com.loudtalks/.client.ui.eh
+com.loudtalks/.client.ui.facebook.k
+com.loudtalks/.platform.audio.v
+com.loudtalks/.platform.d.b
+com.loudtalks/.platform.du
+com.loudtalks/.platform.ex
+com.loudtalks/.platform.gf
+com.loudtalks/.platform.gl
+com.loudtalks/.platform.l

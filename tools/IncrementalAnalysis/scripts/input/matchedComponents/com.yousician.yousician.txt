@@ -1,0 +1,2 @@
+com.yousician.yousician
+com.yousician.yousician/native.JuceJavaFunctionalityProvider

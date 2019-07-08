@@ -1,0 +1,1 @@
+com.gamevil.cartoonwars.blade.global

@@ -1,0 +1,3 @@
+com.aviary.android.feather
+com.aviary.android.feather/.store.r
+com.aviary.android.feather/.streams.StreamFragment

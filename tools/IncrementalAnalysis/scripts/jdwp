@@ -1,0 +1,10 @@
+#!/bin/sh
+
+pkgName=$1
+echo "pkgName= $pkgName"
+jdwp_pid=`adb shell ps | awk '$9 == "'$pkgName'\r" { print $2 }'`
+echo "jdwp_pid: $jdwp_pid"
+
+adb forward tcp:6100 jdwp:$jdwp_pid
+
+./jitana-reana &

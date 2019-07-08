@@ -1,0 +1,2 @@
+com.ciberdroix.ghostsandspirits
+com.ciberdroix.ghostsandspirits/.e

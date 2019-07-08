@@ -1,0 +1,2 @@
+com.morrison.gallerylocklite
+com.morrison.gallerylocklite/.MobirooActivity

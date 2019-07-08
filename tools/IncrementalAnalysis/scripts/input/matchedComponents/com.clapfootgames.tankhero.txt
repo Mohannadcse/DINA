@@ -1,0 +1,2 @@
+com.clapfootgames.tankhero
+com.clapfootgames.tankhero/.MultiDisplayInfoWrapper

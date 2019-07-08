@@ -1,0 +1,3 @@
+com.google.android.apps.translate
+com.google.android.apps.translate/.TranslateApplication
+com.google.android.apps.translate/.inputs.VoiceInputActivity

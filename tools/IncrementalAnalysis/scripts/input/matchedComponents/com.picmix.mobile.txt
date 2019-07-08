@@ -1,0 +1,3 @@
+com.picmix.mobile
+com.picmix.mobile/.PicMixApp
+com.picmix.mobile/.utils.x

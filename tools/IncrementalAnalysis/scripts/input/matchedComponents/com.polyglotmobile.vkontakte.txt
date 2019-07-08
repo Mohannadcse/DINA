@@ -1,0 +1,3 @@
+com.polyglotmobile.vkontakte
+com.polyglotmobile.vkontakte/.activities.MainActivity
+com.polyglotmobile.vkontakte/.api.a.c

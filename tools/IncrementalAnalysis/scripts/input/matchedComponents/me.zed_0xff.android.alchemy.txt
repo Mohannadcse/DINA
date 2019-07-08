@@ -1,0 +1,2 @@
+me.zed_0xff.android.alchemy
+me.zed_0xff.android.alchemy/.ProfileManager

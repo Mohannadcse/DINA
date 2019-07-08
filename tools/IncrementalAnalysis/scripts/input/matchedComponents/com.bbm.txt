@@ -1,0 +1,11 @@
+com.bbm
+com.bbm/.ap.PlatformAlarmManager
+com.bbm/.bali.ui.main.a.a
+com.bbm/.invite.f
+com.bbm/.store.d
+com.bbm/.store.dataobjects.i
+com.bbm/.ui.BbmWebView
+com.bbm/.ui.ax
+com.bbm/.ui.w
+com.bbm/.util.bk
+com.bbm/.util.t

@@ -1,0 +1,2 @@
+com.ubisoft.horsehaven.adventures
+com.ubisoft.horsehaven.adventures/.SparkActivity

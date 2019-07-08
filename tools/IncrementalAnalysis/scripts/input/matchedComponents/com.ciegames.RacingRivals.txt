@@ -1,0 +1,2 @@
+com.ciegames.RacingRivals
+com.ciegames.RacingRivals/.PhotoPermissions

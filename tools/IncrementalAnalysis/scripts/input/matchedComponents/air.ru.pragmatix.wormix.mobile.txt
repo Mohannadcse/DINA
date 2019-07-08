@@ -1,0 +1,2 @@
+air.ru.pragmatix.wormix.mobile
+air.ru.pragmatix.wormix.mobile/.AppEntry

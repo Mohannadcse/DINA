@@ -1,0 +1,11 @@
+com.kakao.story
+com.kakao.story/.ui.activity.StoryBaseFragmentActivity
+com.kakao.story/.android.application.b
+com.kakao.story/.data.api.GetMediasApi
+com.kakao.story/.data.b.a
+com.kakao.story/.push.gcm.a
+com.kakao.story/.ui.actiontag.ActionTagHomeAdapter$c
+com.kakao.story/.ui.activity.BaseWebViewActivity
+com.kakao.story/.ui.g.z
+com.kakao.story/.ui.layout.main.feed.e
+com.kakao.story/.video.internal.f.e

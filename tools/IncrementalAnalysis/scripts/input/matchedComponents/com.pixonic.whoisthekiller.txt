@@ -1,0 +1,4 @@
+com.pixonic.whoisthekiller
+com.pixonic.whoisthekiller/.Gamepad
+com.pixonic.whoisthekiller/.GooglePlayServicesExtension
+com.pixonic.whoisthekiller/.RunnerActivity

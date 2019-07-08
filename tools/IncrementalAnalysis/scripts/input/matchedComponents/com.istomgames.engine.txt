@@ -1,0 +1,2 @@
+com.istomgames.engine
+com.istomgames.engine/.EngineActivity

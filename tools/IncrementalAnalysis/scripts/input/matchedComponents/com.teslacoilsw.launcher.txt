@@ -1,0 +1,5 @@
+com.teslacoilsw.launcher
+com.teslacoilsw.launcher/.NovaLauncher
+com.teslacoilsw.launcher/.NovaService
+com.teslacoilsw.launcher/.NovaShortcutHandler$2
+com.teslacoilsw.launcher/.preferences.widget.DrawerAnimationPreference$ClipPathTestView

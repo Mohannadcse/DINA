@@ -1,0 +1,7 @@
+kr.co.vcnc.android.couple
+kr.co.vcnc.android.couple/.core.jackson.deserializer.LocalDateDeserializer
+kr.co.vcnc.android.couple/.core.jackson.deserializer.ZonedDateTimeDeserializer
+kr.co.vcnc.android.couple/.core.jackson.serializer.LocalDateSerializer
+kr.co.vcnc.android.couple/.core.jackson.serializer.ZonedDateTimeSerializer
+kr.co.vcnc.android.couple/.feature.sticker.player.CoupleAnimatedImageFactory
+kr.co.vcnc.android.couple/.inject.DaggerService

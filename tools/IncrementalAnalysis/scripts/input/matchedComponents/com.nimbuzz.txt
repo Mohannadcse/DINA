@@ -1,0 +1,5 @@
+com.nimbuzz
+com.nimbuzz/.AdView
+com.nimbuzz/.NWorldScreen
+com.nimbuzz/.newadvertisement.V1AdFragment
+com.nimbuzz/.services.AndroidPlatform

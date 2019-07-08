@@ -1,0 +1,3 @@
+emoji.keyboard.emoticonkeyboard
+emoji.keyboard.emoticonkeyboard/.b.c
+emoji.keyboard.emoticonkeyboard/.lockscreen.g

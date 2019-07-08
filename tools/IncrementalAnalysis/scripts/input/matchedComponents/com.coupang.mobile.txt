@@ -1,0 +1,3 @@
+com.coupang.mobile
+com.coupang.mobile/.domain.ddp.DetailTabImageView
+com.coupang.mobile/.domain.referrer.install.ReferrerReceiver

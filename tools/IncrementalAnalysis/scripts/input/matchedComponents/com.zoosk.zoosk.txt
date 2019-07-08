@@ -1,0 +1,2 @@
+com.zoosk.zoosk
+com.zoosk.zoosk/.data.objects.json.JSONBackedObject

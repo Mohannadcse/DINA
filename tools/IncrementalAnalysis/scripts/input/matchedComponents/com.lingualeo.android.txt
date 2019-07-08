@@ -1,0 +1,3 @@
+com.lingualeo.android
+com.lingualeo.android/.droidkit.sqlite.SimpleSQLiteDAOFactory
+com.lingualeo.android/.droidkit.utils.ReflectUtils

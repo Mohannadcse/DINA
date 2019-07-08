@@ -1,0 +1,3 @@
+com.rcplatform.nocrop
+com.rcplatform.nocrop/.activity.PrivacyPolicyActivity
+com.rcplatform.nocrop/.filter.OpenGLImageAdjustFilter

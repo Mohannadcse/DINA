@@ -1,0 +1,5 @@
+com.audiomack
+com.audiomack/.remotecontrol.MediaButtonHelper
+com.audiomack/.remotecontrol.RemoteControlClientCompat$MetadataEditorCompat
+com.audiomack/.remotecontrol.RemoteControlClientCompat
+com.audiomack/.remotecontrol.RemoteControlHelper

@@ -1,0 +1,4 @@
+com.enigmapro.wot.knowlege
+com.enigmapro.wot.knowlege/.a.a.h
+com.enigmapro.wot.knowlege/.activities.a
+com.enigmapro.wot.knowlege/.datatypes.tanks.characteristics.CharsCounter

@@ -1,0 +1,2 @@
+air.com.buffalo_studios.newflashbingo
+air.com.buffalo_studios.newflashbingo/.AppEntry

@@ -1,0 +1,3 @@
+com.wemakeprice
+com.wemakeprice/.common.ay
+com.wemakeprice/.common.i

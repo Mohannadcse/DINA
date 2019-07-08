@@ -1,0 +1,3 @@
+com.imo.android.imoim
+com.imo.android.imoim/.IMO
+com.imo.android.imoim/.activities.PhoneActivationActivity

@@ -1,0 +1,7 @@
+com.sygic.aura
+com.sygic.aura/.activity.utils.FragmentMethodsActivity
+com.sygic.aura/.activity.utils.Fragments$FragmentBuilder
+com.sygic.aura/.feature.device.LowDeviceFeatureBase
+com.sygic.aura/.feature.net.SSLNetworking
+com.sygic.aura/.helper.NativeMethodsHelper
+com.sygic.aura/.helper.imageMetadataExtractor.metadata.Metadata

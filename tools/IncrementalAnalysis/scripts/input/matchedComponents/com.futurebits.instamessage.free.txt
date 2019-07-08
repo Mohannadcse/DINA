@@ -1,0 +1,2 @@
+com.futurebits.instamessage.free
+com.futurebits.instamessage.free/.q.j

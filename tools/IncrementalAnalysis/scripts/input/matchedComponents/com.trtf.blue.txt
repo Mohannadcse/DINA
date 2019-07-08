@@ -1,0 +1,6 @@
+com.trtf.blue
+com.trtf.blue/.Blue
+com.trtf.blue/.activity.GenericActivity.GenericFragmentActivity.GenericFragmentActivity
+com.trtf.blue/.activity.GenericActivity.GenericTabActivity.GenericTabActivity
+com.trtf.blue/.activity.WebViewActivity
+com.trtf.blue/.preferences.TimePickerPreference

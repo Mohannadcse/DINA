@@ -1,0 +1,2 @@
+com.jabong.android
+com.jabong.android/.n.x

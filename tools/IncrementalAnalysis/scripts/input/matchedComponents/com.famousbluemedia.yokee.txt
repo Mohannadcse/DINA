@@ -1,0 +1,2 @@
+com.famousbluemedia.yokee
+com.famousbluemedia.yokee/.utils.DeviceUtils

@@ -1,0 +1,1 @@
+com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish

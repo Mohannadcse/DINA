@@ -1,0 +1,2 @@
+air.com.freshplanet.games.WaM
+air.com.freshplanet.games.WaM/.AppEntry

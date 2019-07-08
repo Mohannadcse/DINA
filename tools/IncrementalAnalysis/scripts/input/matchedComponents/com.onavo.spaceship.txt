@@ -1,0 +1,3 @@
+com.onavo.spaceship
+com.onavo.spaceship/.app.service.SubscriptionsModule
+com.onavo.spaceship/.event.action.EventActionFactory

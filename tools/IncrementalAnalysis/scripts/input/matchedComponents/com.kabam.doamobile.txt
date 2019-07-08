@@ -1,0 +1,2 @@
+com.kabam.doamobile
+com.kabam.doamobile/.DoamActivity

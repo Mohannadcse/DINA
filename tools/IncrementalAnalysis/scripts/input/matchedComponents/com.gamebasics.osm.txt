@@ -1,0 +1,3 @@
+com.gamebasics.osm
+com.gamebasics.osm/.matchexperience.match.presentation.view.MatchFragment
+com.gamebasics.osm/.util.DbUtils

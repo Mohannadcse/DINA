@@ -1,0 +1,4 @@
+game.maddex.jump
+game.maddex.jump/.Gamepad
+game.maddex.jump/.GooglePlayServicesExtension
+game.maddex.jump/.RunnerActivity

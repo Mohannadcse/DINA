@@ -1,0 +1,4 @@
+com.amapps.media.music
+com.amapps.media.music/.RemoteControlClientCompat$MetadataEditorCompat
+com.amapps.media.music/.RemoteControlClientCompat
+com.amapps.media.music/.SharedPreferencesCompat

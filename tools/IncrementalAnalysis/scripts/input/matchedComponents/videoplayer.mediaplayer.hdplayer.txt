@@ -1,0 +1,2 @@
+videoplayer.mediaplayer.hdplayer
+videoplayer.mediaplayer.hdplayer/.gui.video.VideoPlayerActivity

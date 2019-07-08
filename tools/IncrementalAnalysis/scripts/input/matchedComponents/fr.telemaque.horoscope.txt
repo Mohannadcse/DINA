@@ -1,0 +1,2 @@
+fr.telemaque.horoscope
+fr.telemaque.horoscope/.WebViewAutopromo

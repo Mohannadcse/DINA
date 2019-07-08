@@ -1,0 +1,5 @@
+com.netflix.mediaclient
+com.netflix.mediaclient/.media.JPlayer.AdaptiveMediaDecoderHelper
+com.netflix.mediaclient/.media.JPlayer.JPlayer2
+com.netflix.mediaclient/.media.JPlayer.MediaDecoder2Audio
+com.netflix.mediaclient/.ui.common.StaticLayoutWithMaxLines

@@ -1,0 +1,2 @@
+com.sopt.mafia42.client
+com.sopt.mafia42.client/.ui.profile.card.DeckFragment

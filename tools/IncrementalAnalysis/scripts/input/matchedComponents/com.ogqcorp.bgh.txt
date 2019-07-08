@@ -1,0 +1,3 @@
+com.ogqcorp.bgh
+com.ogqcorp.bgh/.coverslider.tricks.ViewPagerEx
+com.ogqcorp.bgh/.live.LiveWallpaperServiceCompat$IceCreamSandwichWalpaperServiceCompatImpl

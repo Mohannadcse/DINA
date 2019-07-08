@@ -1,0 +1,3 @@
+io.mrarm.mctoolbox
+io.mrarm.mctoolbox/.launcher.CoreLoader
+io.mrarm.mctoolbox/.launcher.LauncherInterfaceImpl

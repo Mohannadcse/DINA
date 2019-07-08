@@ -1,0 +1,2 @@
+com.igg.bzbee.slotsdeluxe
+com.igg.bzbee.slotsdeluxe/.msgs.IMsgHandler

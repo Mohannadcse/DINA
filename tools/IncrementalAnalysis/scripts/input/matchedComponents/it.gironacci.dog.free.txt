@@ -1,0 +1,4 @@
+it.gironacci.dog.free
+it.gironacci.dog.free/.main
+it.gironacci.dog.free/.setting
+it.gironacci.dog.free/.wallpaperservice

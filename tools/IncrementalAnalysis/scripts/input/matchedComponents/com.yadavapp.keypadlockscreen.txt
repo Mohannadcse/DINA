@@ -1,0 +1,2 @@
+com.yadavapp.keypadlockscreen
+com.yadavapp.keypadlockscreen/.OptAnimationLoader

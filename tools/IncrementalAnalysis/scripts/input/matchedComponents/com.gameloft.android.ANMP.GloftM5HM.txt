@@ -1,0 +1,17 @@
+com.gameloft.android.ANMP.GloftM5HM
+com.gameloft.android.ANMP.GloftM5HM/.GLUtils.Device
+com.gameloft.android.ANMP.GloftM5HM/.PackageUtils.AdBlockerPlugin
+com.gameloft.android.ANMP.GloftM5HM/.PackageUtils.b.b
+com.gameloft.android.ANMP.GloftM5HM/.iab.GMPHelper
+com.gameloft.android.ANMP.GloftM5HM/.iab.GMPUtils$c
+com.gameloft.android.ANMP.GloftM5HM/.iab.InAppBilling
+com.gameloft.android.ANMP.GloftM5HM/.iab.an
+com.gameloft.android.ANMP.GloftM5HM/.iab.d
+com.gameloft.android.ANMP.GloftM5HM/.iab.e
+com.gameloft.android.ANMP.GloftM5HM/.iab.g
+com.gameloft.android.ANMP.GloftM5HM/.iab.i
+com.gameloft.android.ANMP.GloftM5HM/.iab.l
+com.gameloft.android.ANMP.GloftM5HM/.iab.q
+com.gameloft.android.ANMP.GloftM5HM/.iab.t
+com.gameloft.android.ANMP.GloftM5HM/.iab.utils.Device
+com.gameloft.android.ANMP.GloftM5HM/.installer.UI.v

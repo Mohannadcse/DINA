@@ -1,0 +1,9 @@
+beemoov.amoursucre.android
+beemoov.amoursucre.android/.databinding.minigame.EventMusicDay2017MinigameDataBinding
+beemoov.amoursucre.android/.models.global.AbstractModel
+beemoov.amoursucre.android/.services.events.EventManager$1
+beemoov.amoursucre.android/.viewscontrollers.bank.BankPopUpActivity
+beemoov.amoursucre.android/.viewscontrollers.events.EventEaster2017Activity$19
+beemoov.amoursucre.android/.viewscontrollers.events.EventEaster2017Activity
+beemoov.amoursucre.android/.viewscontrollers.events.EventMusicDay2017Activity$8
+beemoov.amoursucre.android/.viewscontrollers.inventories_stores.base.AbstractCupboardActivity

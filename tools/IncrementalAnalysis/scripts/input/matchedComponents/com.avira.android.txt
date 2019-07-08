@@ -1,0 +1,5 @@
+com.avira.android
+com.avira.android/.antitheft.lock.ATLockService
+com.avira.android/.antitheft.wipe.e
+com.avira.android/.blacklist.utilities.a
+com.avira.android/.device.b

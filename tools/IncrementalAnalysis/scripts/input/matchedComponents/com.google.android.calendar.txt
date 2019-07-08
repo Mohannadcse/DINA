@@ -1,0 +1,3 @@
+com.google.android.calendar
+com.google.android.calendar/.AllInOneCalendarActivity
+com.google.android.calendar/.net.taskassist.protobuf.MessageParceler$MessageParcel$1

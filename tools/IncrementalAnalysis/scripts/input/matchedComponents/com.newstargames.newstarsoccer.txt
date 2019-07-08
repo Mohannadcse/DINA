@@ -1,0 +1,3 @@
+com.newstargames.newstarsoccer
+com.newstargames.newstarsoccer/.BBAndroidGame$GameView
+com.newstargames.newstarsoccer/.BBAndroidGame

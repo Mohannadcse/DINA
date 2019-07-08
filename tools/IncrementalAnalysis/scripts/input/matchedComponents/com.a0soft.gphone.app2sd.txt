@@ -1,0 +1,2 @@
+com.a0soft.gphone.app2sd
+com.a0soft.gphone.app2sd/.root.BatchCmdSrvc

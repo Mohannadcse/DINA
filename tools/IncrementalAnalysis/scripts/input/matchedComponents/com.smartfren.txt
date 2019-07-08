@@ -1,0 +1,2 @@
+com.smartfren
+com.smartfren/.d.d

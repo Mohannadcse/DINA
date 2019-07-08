@@ -1,0 +1,5 @@
+com.jnj.mocospace.android
+com.jnj.mocospace.android/.api.service.impl.ConnectionServiceImpl
+com.jnj.mocospace.android/.api.service.impl.JsonSerializableFactory
+com.jnj.mocospace.android/.presentation.home.MainWebView
+com.jnj.mocospace.android/.presentation.home.NativeToWebBridge

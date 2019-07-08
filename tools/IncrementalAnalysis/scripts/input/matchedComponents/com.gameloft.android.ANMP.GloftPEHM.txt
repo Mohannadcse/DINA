@@ -1,0 +1,16 @@
+com.gameloft.android.ANMP.GloftPEHM
+com.gameloft.android.ANMP.GloftPEHM/.GLUtils.Device
+com.gameloft.android.ANMP.GloftPEHM/.Game
+com.gameloft.android.ANMP.GloftPEHM/.SendInfo
+com.gameloft.android.ANMP.GloftPEHM/.YoukuPlayer
+com.gameloft.android.ANMP.GloftPEHM/.iab.GMPHelper
+com.gameloft.android.ANMP.GloftPEHM/.iab.InAppBilling
+com.gameloft.android.ANMP.GloftPEHM/.iab.aq
+com.gameloft.android.ANMP.GloftPEHM/.iab.e
+com.gameloft.android.ANMP.GloftPEHM/.iab.g
+com.gameloft.android.ANMP.GloftPEHM/.iab.j
+com.gameloft.android.ANMP.GloftPEHM/.iab.m
+com.gameloft.android.ANMP.GloftPEHM/.iab.o
+com.gameloft.android.ANMP.GloftPEHM/.iab.p
+com.gameloft.android.ANMP.GloftPEHM/.iab.utils.Device
+com.gameloft.android.ANMP.GloftPEHM/.iab.w

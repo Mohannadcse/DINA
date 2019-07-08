@@ -1,0 +1,4 @@
+com.todoist
+com.todoist/.highlight.widget.HighlightEditText
+com.todoist/.highlight.widget.b
+com.todoist/.i.b$a$b

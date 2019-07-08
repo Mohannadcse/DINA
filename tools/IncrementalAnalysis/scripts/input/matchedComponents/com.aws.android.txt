@@ -1,0 +1,4 @@
+com.aws.android
+com.aws.android/.ad.AdFactory
+com.aws.android/.lib.application.RequestResponseProcessor$UpdateThread
+com.aws.android/.spotlight.ui.SpotlightBaseActivity

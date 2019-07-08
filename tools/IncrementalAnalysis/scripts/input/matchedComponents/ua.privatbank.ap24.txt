@@ -1,0 +1,4 @@
+ua.privatbank.ap24
+ua.privatbank.ap24/.beta.apcore.confirmservise.b
+ua.privatbank.ap24/.beta.apcore.d$4
+ua.privatbank.ap24/.beta.utils.DeviceUtil

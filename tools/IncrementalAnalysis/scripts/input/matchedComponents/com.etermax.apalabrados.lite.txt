@@ -1,0 +1,1 @@
+com.etermax.apalabrados.lite

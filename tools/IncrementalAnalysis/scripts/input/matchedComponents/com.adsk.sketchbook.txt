@@ -1,0 +1,6 @@
+com.adsk.sketchbook
+com.adsk.sketchbook/.ae.c
+com.adsk.sketchbook/.ae.u
+com.adsk.sketchbook/.aa.h
+com.adsk.sketchbook/.ae.a.a
+com.adsk.sketchbook/.database.b$1

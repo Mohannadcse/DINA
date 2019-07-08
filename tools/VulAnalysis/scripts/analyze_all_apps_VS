@@ -1,0 +1,46 @@
+#!/bin/sh
+
+
+#This script performs following functions:
+#1-creating 2 directories (tmp: storing temporarly the apps under analysis, and newLoc_Apps_popular:storing the apps after the end of the analysis)
+#2-Iterate over all files in the Apps_popular until it becomes empty
+#3-move 35 apps to the temp directory, analyze them, and finaly move them to the new location
+
+
+mkdir tmp
+mkdir analyzed
+
+START_TOTAL=$(date +%s)
+#move 100 files to a new directory
+while [ $(ls -p $1 | grep -v / | wc -l) -ne 0 ]
+do
+	for i in $(ls -p $1 | grep -v / | head -n 1)
+	do
+		mv $1/$i tmp/$i
+		echo move files to tmp folder...
+		apkName=$i
+		echo
+	done 
+
+	#run jitana 
+	echo run Jitana... 
+	START_VulAnalysis=$(date +%s)
+	./launch --path tmp
+	END_VulAnalysis=$(date +%s)
+	echo Finish running Jitana...
+	echo 
+	DIFF_DINA=$(($END_VulAnalysis - $START_VulAnalysis))
+	echo $apkName,$DIFF_DINA >> indTimeAnalysis.csv
+
+	for i in $(ls -p tmp | grep -v /)
+	do 
+		mv tmp/$i analyzed/$i 
+		echo Move the analyzed files to new location...
+		echo
+	done	
+done
+
+END_TOTAL=$(date +%s)
+
+DIFF_TOTAL=$(($END_TOTAL - $START_TOTAL))
+echo "$DIFF_TOTAL seconds total" > analysisTime.txt

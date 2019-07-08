@@ -1,0 +1,2 @@
+com.imdb.mobile
+com.imdb.mobile/.util.android.SharedPreferencesWriter

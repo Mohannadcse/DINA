@@ -1,0 +1,2 @@
+com.meitu.makeup
+com.meitu.makeup/.widget.banner.LoopViewPager

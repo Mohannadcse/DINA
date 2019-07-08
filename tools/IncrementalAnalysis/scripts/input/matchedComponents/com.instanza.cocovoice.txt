@@ -1,0 +1,5 @@
+com.instanza.cocovoice
+com.instanza.cocovoice/.activity.a.d
+com.instanza.cocovoice/.activity.social.SocialGroupFragmentActivity
+com.instanza.cocovoice/.activity.social.friendcircle.b
+com.instanza.cocovoice/.utils.q

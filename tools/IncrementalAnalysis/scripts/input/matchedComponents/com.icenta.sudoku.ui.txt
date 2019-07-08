@@ -1,0 +1,2 @@
+com.icenta.sudoku.ui
+com.icenta.sudoku.ui/.MobileSudoku

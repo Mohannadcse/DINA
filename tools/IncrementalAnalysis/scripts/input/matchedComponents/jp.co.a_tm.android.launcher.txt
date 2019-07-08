@@ -1,0 +1,2 @@
+jp.co.a_tm.android.launcher
+jp.co.a_tm.android.launcher/.home.j

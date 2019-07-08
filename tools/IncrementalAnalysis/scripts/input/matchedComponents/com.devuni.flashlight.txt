@@ -1,0 +1,12 @@
+com.devuni.flashlight
+com.devuni.flashlight/.a
+com.devuni.flashlight/.a.q
+com.devuni.flashlight/.misc.i
+com.devuni.flashlight/.receivers.WidgetProvider
+com.devuni.flashlight/.ui.b
+com.devuni.flashlight/.ui.controls.e
+com.devuni.flashlight/.ui.db.c
+com.devuni.flashlight/.views.k
+com.devuni.flashlight/.views.BaseLight
+com.devuni.flashlight/.views.LightSources
+com.devuni.flashlight/.views.PluginView

@@ -1,0 +1,15 @@
+com.gameloft.android.ANMP.GloftA3HM
+com.gameloft.android.ANMP.GloftA3HM/.GLUtils.Device
+com.gameloft.android.ANMP.GloftA3HM/.PackageUtils.b.b
+com.gameloft.android.ANMP.GloftA3HM/.SendInfo
+com.gameloft.android.ANMP.GloftA3HM/.iab.GMPHelper
+com.gameloft.android.ANMP.GloftA3HM/.iab.InAppBilling
+com.gameloft.android.ANMP.GloftA3HM/.iab.ap
+com.gameloft.android.ANMP.GloftA3HM/.iab.d
+com.gameloft.android.ANMP.GloftA3HM/.iab.f
+com.gameloft.android.ANMP.GloftA3HM/.iab.i
+com.gameloft.android.ANMP.GloftA3HM/.iab.l
+com.gameloft.android.ANMP.GloftA3HM/.iab.n
+com.gameloft.android.ANMP.GloftA3HM/.iab.o
+com.gameloft.android.ANMP.GloftA3HM/.iab.utils.Device
+com.gameloft.android.ANMP.GloftA3HM/.iab.v

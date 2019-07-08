@@ -1,0 +1,2 @@
+uk.co.aifactory.chessfree
+uk.co.aifactory.chessfree/.ChessFreeActivity

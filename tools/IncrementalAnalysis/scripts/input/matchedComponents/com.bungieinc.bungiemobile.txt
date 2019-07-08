@@ -1,0 +1,2 @@
+com.bungieinc.bungiemobile
+com.bungieinc.bungiemobile

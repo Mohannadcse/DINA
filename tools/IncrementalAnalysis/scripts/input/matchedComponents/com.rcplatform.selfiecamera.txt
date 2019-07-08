@@ -1,0 +1,2 @@
+com.rcplatform.selfiecamera
+com.rcplatform.selfiecamera/.activity.BrowserActivity

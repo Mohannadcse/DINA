@@ -1,0 +1,6 @@
+com.rebelvox.voxer
+com.rebelvox.voxer/.ConversationDetailList.MessageDetailReceiptsPagerAdapter
+com.rebelvox.voxer/.Network.VoxerSSLCertficateSocketFactory
+com.rebelvox.voxer/.System.SystemSensorManager
+com.rebelvox.voxer/.VoxerSignal.PRNGFixes
+com.rebelvox.voxer/.VoxerTabActivity$TabFragmentPagerAdapter

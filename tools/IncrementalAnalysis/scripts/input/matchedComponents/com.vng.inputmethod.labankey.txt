@@ -1,0 +1,1 @@
+com.vng.inputmethod.labankey

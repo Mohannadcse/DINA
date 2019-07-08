@@ -1,0 +1,6 @@
+com.pinterest
+com.pinterest/.activity.pin.view.modules.f
+com.pinterest/.base.ad
+com.pinterest/.design.b.a
+com.pinterest/.f.f.a
+com.pinterest/.feature.core.i

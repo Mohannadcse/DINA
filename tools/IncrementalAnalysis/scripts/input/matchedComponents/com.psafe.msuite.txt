@@ -1,0 +1,2 @@
+com.psafe.msuite
+com.psafe.msuite/.common.PlayReceiver

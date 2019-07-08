@@ -1,0 +1,2 @@
+com.igg.clashoflords2
+com.igg.clashoflords2/.gem_webview$1

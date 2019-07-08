@@ -1,0 +1,2 @@
+com.fingersoft.hcr2
+com.fingersoft.hcr2/.AppLovinCustomEventInterstitial

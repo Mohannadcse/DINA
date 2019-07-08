@@ -1,0 +1,100 @@
+#!/bin/bash
+
+ls $1 > names.txt
+files_to_be_analyzed="./names.txt"
+
+rm -rf output
+mkdir output
+mkdir output/monkey_log
+mkdir output/output-reana
+
+AppNo=1
+START_ANALYSIS=$(date +%s)
+lines=`cat $files_to_be_analyzed`
+
+for var in $lines; do
+    adb shell pm list packages -3 | awk -F ":" '{print $2}' > output/beforeInstall.txt
+    echo Install "$AppNo $var"...
+    echo -----------------
+    START_SINGLE_APP_ANALYSIS=$(date +%s)
+    adb install $1/"$var"
+    adb shell pm list packages -3 | awk -F ":" '{print $2}' > output/afterInstall.txt
+
+    if diff output/beforeInstall.txt output/afterInstall.txt > /dev/null ; then
+        echo App has not been installed
+        echo "$var","000",False,0 >> output/installationReport.csv
+        echo 
+
+    else
+
+        echo App has been installed
+        pkgName="$(sort output/afterInstall.txt output/beforeInstall.txt | uniq -u | awk '{ print $1 }' | tr -d "\r")"
+        #pkgName="${var%%.apk}"
+        echo $var > output/pkgName.txt
+        echo "Waiting for the device..."
+        adb wait-for-device
+
+        # Make sure the screen is on.
+        adb shell dumpsys power | grep "mScreenOn=true" \
+            | xargs -0 test -z && adb shell input keyevent 26 && adb shell input keyevent 82
+
+        adb shell monkey -p $pkgName 1
+        jdwp_pid=`adb shell ps | awk '$9 == "'$pkgName'\r" { print $2 }'`
+        if [[ -z "$jdwp_pid" ]]; then
+            echo
+            # echo "Error: ==Trial $i== failed to find the PID in App $pkgName" >> output/monkey_log/$pkgName.txt
+            # echo "Error: == failed to find the PID in App $pkgName" >> output/monkey_log/$pkgName.txt
+            echo 
+            #exit 1
+            continue
+        fi
+        echo "jdwp_pid: $jdwp_pid"
+        
+        adb forward --remove-all && adb forward tcp:6100 jdwp:$jdwp_pid
+
+        gtimeout 650 ./IncrementalAnalysis &
+        jitana_pid=$!
+
+        sleep 5
+
+        # Start Monkey.
+        echo "=== Monky: started ============================"
+        # time adb shell monkey -p $pkgName -v 6000 -s $i*324545 --ignore-crashes --kill-process-after-error >> output/monkeyLog.txt 
+        gtimeout 600 adb shell monkey -p $pkgName -v 6000 -s $jdwp_pid*3245 --ignore-crashes --pct-syskeys 0 >> output/monkey_log/$pkgName.txt 
+        echo "=== Monky: stopped ============================"
+
+        # Kill DINA.
+        echo "Killing DINA in 5 seconds..."
+        sleep 5
+        kill -INT $jitana_pid
+        #kill -9 $jitana_pid
+        wait
+        echo "DINA has been Killed"
+        echo
+
+        END_SINGLE_APP_ANALYSIS=$(date +%s)
+        TOTAL_SINGLE_APP_ANALYSIS=$(($END_SINGLE_APP_ANALYSIS - $START_SINGLE_APP_ANALYSIS))
+        echo "$var","$pkgName",True,"$TOTAL_SINGLE_APP_ANALYSIS" >> output/installationReport.csv
+        echo Uninstall "$var"
+        gtimeout 40 adb shell pm uninstall $pkgName
+    fi
+    AppNo=$((AppNo+1))
+done
+
+END_ANALYSIS=$(date +%s)
+TOTAL_ANALYSIS_TIME=$(($END_ANALYSIS - $START_ANALYSIS))
+echo "$TOTAL_ANALYSIS_TIME seconds total" > output/totalTime.txt
+
+cat output/IntentDetection.csv | sort | uniq > output/IntentDetectionTemp.csv
+cat output/IntentDetectionTemp.csv > output/IntentDetection.csv
+rm output/IntentDetectionTemp.csv
+echo "IntentDetection report finished"
+
+cat output/Intent_Sending_Methods_Detection.csv | sort | uniq > output/Intent_Sending_Methods_DetectionTemp.csv
+cat output/Intent_Sending_Methods_DetectionTemp.csv > output/Intent_Sending_Methods_Detection.csv
+rm output/Intent_Sending_Methods_DetectionTemp.csv
+echo "Intent_Sending_Methods_Detection report finished"
+
+cat output/output-reana/ref_methods_pair.csv | sort | uniq > output/output-reana/ref_methods_pair_tmp.csv
+cat output/output-reana/ref_methods_pair_tmp.csv > output/output-reana/ref_methods_pair.csv
+rm  output/output-reana/ref_methods_pair_tmp.csv

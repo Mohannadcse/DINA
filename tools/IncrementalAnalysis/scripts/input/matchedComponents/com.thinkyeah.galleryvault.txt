@@ -1,0 +1,3 @@
+com.thinkyeah.galleryvault
+com.thinkyeah.galleryvault/.common.e.j
+com.thinkyeah.galleryvault/.main.MainApplication

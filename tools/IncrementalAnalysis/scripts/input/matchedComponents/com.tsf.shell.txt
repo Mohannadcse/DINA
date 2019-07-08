@@ -1,0 +1,6 @@
+com.tsf.shell
+com.tsf.shell/.manager.action.toggle.a.d
+com.tsf.shell/.manager.r.c.a.a$1
+com.tsf.shell/.manager.r.c.a.a$2
+com.tsf.shell/.manager.r.c.a.a
+com.tsf.shell/.utils.s

@@ -1,0 +1,5 @@
+com.zynga.scramble
+com.zynga.scramble/.u
+com.zynga.scramble/.v
+com.zynga.scramble/.w
+com.zynga.scramble/.x

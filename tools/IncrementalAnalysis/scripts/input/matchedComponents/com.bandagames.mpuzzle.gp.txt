@@ -1,0 +1,1 @@
+com.bandagames.mpuzzle.gp

@@ -1,0 +1,2 @@
+com.vladlee.easyblacklist
+com.vladlee.easyblacklist/.gg

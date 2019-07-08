@@ -1,0 +1,2 @@
+com.macropinch.swan
+com.macropinch.swan/.ServiceDataProvider

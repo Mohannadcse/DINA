@@ -1,0 +1,2 @@
+coolcherrytrees.games.reactor
+coolcherrytrees.games.reactor/.GameActivity

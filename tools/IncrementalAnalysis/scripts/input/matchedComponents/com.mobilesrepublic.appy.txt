@@ -1,0 +1,2 @@
+com.mobilesrepublic.appy
+com.mobilesrepublic.appy/.Application

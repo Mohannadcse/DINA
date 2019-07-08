@@ -1,0 +1,14 @@
+com.booking
+com.booking/.common.util.TypedCursor
+com.booking/.commons.android.MarshalingBundle
+com.booking/.dcl.DynamicLoaderHelper
+com.booking/.layoutinflater.BookingLayoutInflaterFactory
+com.booking/.multidex.BookingClassLoader
+com.booking/.multidex.MultiDexLoader$V14
+com.booking/.multidex.MultiDexLoader$V19
+com.booking/.ormlite.apptools.OpenHelperHolder
+com.booking/.service.CloudSyncService
+com.booking/.util.PreinstalledAffiliateIdProvider
+com.booking/.util.ReflectionUtils
+com.booking/.util.SystemProperty
+com.booking

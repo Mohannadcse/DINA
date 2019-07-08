@@ -1,0 +1,2 @@
+com.snapchat.android
+com.snapchat.android/.app.feature.search.ui.common.viewpager.LoopScrollViewPager

@@ -1,0 +1,7 @@
+com.jb.zcamera
+com.jb.zcamera/.CameraApp
+com.jb.zcamera/.background.a.e
+com.jb.zcamera/.image.filter.b
+com.jb.zcamera/.image.folder.d
+com.jb.zcamera/.ui.EdgeDragViewPager
+com.jb.zcamera/.utils.ab

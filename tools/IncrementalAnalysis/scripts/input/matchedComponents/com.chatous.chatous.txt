@@ -1,0 +1,3 @@
+com.chatous.chatous
+com.chatous.chatous/.ui.activity.ChatousFragmentActivity
+com.chatous.chatous/.chat.ChatActivity

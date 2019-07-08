@@ -1,0 +1,2 @@
+com.ea.game.nfs14_row
+com.ea.game.nfs14_row/.NFSActivity

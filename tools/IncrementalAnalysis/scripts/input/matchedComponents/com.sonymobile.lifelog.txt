@@ -1,0 +1,3 @@
+com.sonymobile.lifelog
+com.sonymobile.lifelog/.activityengine.analytics.google.GoogleAnalyticsManager
+com.sonymobile.lifelog/.debug.DebugOptionsFragment

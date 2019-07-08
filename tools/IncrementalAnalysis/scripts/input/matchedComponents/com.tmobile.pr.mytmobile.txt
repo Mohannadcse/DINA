@@ -1,0 +1,4 @@
+com.tmobile.pr.mytmobile
+com.tmobile.pr.mytmobile/.tmocommons.utils.ReflectionUtils
+com.tmobile.pr.mytmobile/.tmocommons.network.CommonNetworkUtils
+com.tmobile.pr.mytmobile/.tmocommons.utils.CommonReflectionManager

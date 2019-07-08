@@ -1,0 +1,7 @@
+com.nhn.android.search
+com.nhn.android.search/.a
+com.nhn.android.search/.appmanager.c
+com.nhn.android.search/.crashreport.c
+com.nhn.android.search/.notification.c
+com.nhn.android.search/.ui.recognition.d$1
+com.nhn.android.search/.ui.widget.quickmenu.d

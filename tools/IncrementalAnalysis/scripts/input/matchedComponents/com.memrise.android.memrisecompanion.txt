@@ -1,0 +1,3 @@
+com.memrise.android.memrisecompanion
+com.memrise.android.memrisecompanion/.lib.session.SessionFactory
+com.memrise.android.memrisecompanion/.util.debug.DevelopersModule

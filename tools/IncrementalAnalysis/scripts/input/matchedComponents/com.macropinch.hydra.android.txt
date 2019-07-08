@@ -1,0 +1,3 @@
+com.macropinch.hydra.android
+com.macropinch.hydra.android/.e
+com.macropinch.hydra.android/.c.a

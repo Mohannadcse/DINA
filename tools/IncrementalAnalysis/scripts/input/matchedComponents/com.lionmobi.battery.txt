@@ -1,0 +1,17 @@
+com.lionmobi.battery
+com.lionmobi.battery/.a.c
+com.lionmobi.battery/.activity.BatterySaverActivity
+com.lionmobi.battery/.activity.SaveModeResultActivity
+com.lionmobi.battery/.activity.ShortCutOfQuickSavingActivity
+com.lionmobi.battery/.activity.WidgetOneResultActivity
+com.lionmobi.battery/.manager.ac
+com.lionmobi.battery/.manager.ad
+com.lionmobi.battery/.manager.v
+com.lionmobi.battery/.util.ai
+com.lionmobi.battery/.util.aj
+com.lionmobi.battery/.util.am
+com.lionmobi.battery/.util.fontutil.FontIconDrawable$a
+com.lionmobi.battery/.util.j
+com.lionmobi.battery/.util.o
+com.lionmobi.battery/.util.stat.i
+com.lionmobi.battery/.util.stat.r

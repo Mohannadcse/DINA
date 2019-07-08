@@ -1,0 +1,3 @@
+com.highsecure.photokeypadlockscreen
+com.highsecure.photokeypadlockscreen/.ChangeButtonImageActivity
+com.highsecure.photokeypadlockscreen/.passcode.UnlockPassCodeActivity

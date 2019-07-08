@@ -1,0 +1,3 @@
+com.kodelokus.prayertime
+com.kodelokus.prayertime/.database.genericdao.GenericDao
+com.kodelokus.prayertime/.lib.ViewServer$ViewServerWorker

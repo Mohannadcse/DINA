@@ -1,0 +1,2 @@
+com.eclipsim.gpsstatus2
+com.eclipsim.gpsstatus2/.GPSStatus

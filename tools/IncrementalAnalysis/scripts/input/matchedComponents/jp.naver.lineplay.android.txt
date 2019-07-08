@@ -1,0 +1,4 @@
+jp.naver.lineplay.android
+jp.naver.lineplay.android/.avatarcamera.Utils.ExifUtil
+jp.naver.lineplay.android/.receiver.InstallReferrerReceiver
+jp.naver.lineplay.android/.LinePlay

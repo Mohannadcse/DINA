@@ -1,0 +1,3 @@
+com.staircase3.opensignal
+com.staircase3.opensignal/.k.f
+com.staircase3.opensignal/.library.v

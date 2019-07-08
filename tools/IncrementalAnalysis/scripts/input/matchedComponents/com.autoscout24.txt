@@ -1,0 +1,4 @@
+com.autoscout24
+com.autoscout24/.dealer.priceevaluation.funnel.ui.adapters.FirstScreenPagerAdapter$TabTitleAndFragmentClass
+com.autoscout24/.ui.dagger.DaggerFragmentActivity
+com.autoscout24/.utils.TestViewServer$ViewServerWorker

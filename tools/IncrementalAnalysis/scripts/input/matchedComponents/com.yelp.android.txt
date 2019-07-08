@@ -1,0 +1,2 @@
+com.yelp.android
+com.yelp.android/.gx.f

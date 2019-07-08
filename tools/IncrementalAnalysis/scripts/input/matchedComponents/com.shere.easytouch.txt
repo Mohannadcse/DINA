@@ -1,0 +1,15 @@
+com.shere.easytouch
+com.shere.easytouch/.EasyTouchService$10
+com.shere.easytouch/.EasyTouchService$51
+com.shere.easytouch/.EasyTouchService$68
+com.shere.easytouch/.EasyTouchService
+com.shere.easytouch/.c.b
+com.shere.easytouch/.c.d
+com.shere.easytouch/.c.g
+com.shere.easytouch/.g.a
+com.shere.easytouch/.i.p
+com.shere.easytouch/.i.y
+com.shere.easytouch/.j.e
+com.shere.easytouch/.ui.ViewPager
+com.shere.easytouch/.ui350.ThemePreviewActivity
+com.shere.easytouch/.ui350.ThemeShopActivity$TabInfo

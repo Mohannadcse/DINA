@@ -1,0 +1,4 @@
+eu.chainfire.supersu
+eu.chainfire.supersu/.MainActivity
+eu.chainfire.supersu/.PreferenceListFragment
+eu.chainfire.supersu/.SuperUserIntentService

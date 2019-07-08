@@ -1,0 +1,2 @@
+com.aitype.android
+com.aitype.android/.livebackground.LiveDrawable$LiveDrawableStyle

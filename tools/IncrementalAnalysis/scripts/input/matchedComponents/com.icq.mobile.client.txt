@@ -1,0 +1,8 @@
+com.icq.mobile.client
+com.icq.mobile.client/.util.b$1
+com.icq.mobile.client/.util.b
+com.icq.mobile.client/.util.c$4
+com.icq.mobile.client/.util.c$5
+com.icq.mobile.client/.util.c$6
+com.icq.mobile.client/.util.c$7$1
+com.icq.mobile.client/.util.c$b

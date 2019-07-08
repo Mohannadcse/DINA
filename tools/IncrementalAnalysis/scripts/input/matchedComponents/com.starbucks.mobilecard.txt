@@ -1,0 +1,6 @@
+com.starbucks.mobilecard
+com.starbucks.mobilecard/.dao.AppSettingsDAO
+com.starbucks.mobilecard/.dao.PaymentMethodsDAO
+com.starbucks.mobilecard/.dao.SessionDAO
+com.starbucks.mobilecard/.util.FavoritesUIUtil
+com.starbucks.mobilecard/.widget.service.StarbucksUpdateWidgetService

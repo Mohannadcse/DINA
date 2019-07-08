@@ -1,0 +1,2 @@
+com.fandango
+com.fandango/.material.customview.VerticalViewPager

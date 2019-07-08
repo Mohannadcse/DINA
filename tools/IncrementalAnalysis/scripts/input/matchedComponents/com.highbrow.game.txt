@@ -1,0 +1,2 @@
+com.highbrow.game
+com.highbrow.game/s.sdk.HighbrowWebView

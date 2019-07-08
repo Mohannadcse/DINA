@@ -1,0 +1,2 @@
+com.viki.android
+com.viki.android/.VikiApplication

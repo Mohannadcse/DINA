@@ -1,0 +1,2 @@
+com.iobit.mobilecare
+com.iobit.mobilecare/.framework.d.o

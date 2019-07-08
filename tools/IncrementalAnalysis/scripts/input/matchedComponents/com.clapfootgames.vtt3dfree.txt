@@ -1,0 +1,2 @@
+com.clapfootgames.vtt3dfree
+com.clapfootgames.vtt3dfree/.MultiDisplayInfoWrapper

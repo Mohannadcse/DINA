@@ -1,0 +1,15 @@
+com.urbandroid.sleep
+com.urbandroid.sleep/.SleepService
+com.urbandroid.sleep/.alarmclock.AlarmAlertFullScreen
+com.urbandroid.sleep/.alarmclock.AlarmReceiver
+com.urbandroid.sleep/.alarmclock.SetAlarm$9
+com.urbandroid.sleep/.alarmclock.SetAlarm
+com.urbandroid.sleep/.audio.writer.AudioWriterCreatorFactory$1
+com.urbandroid.sleep/.audio.writer.AudioWriterCreatorFactory
+com.urbandroid.sleep/.captcha.NFCScanner
+com.urbandroid.sleep/.captcha.NFCScannerHelper
+com.urbandroid.sleep/.captcha.NFCUtil
+com.urbandroid.sleep/.gui.SystemBarTintManager
+com.urbandroid.sleep/.media.MediaListActivity
+com.urbandroid.sleep/.sensor.AccelManager
+com.urbandroid.sleep/.service.FlashlightService

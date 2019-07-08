@@ -1,0 +1,6 @@
+com.bazinga.cacheclean
+com.bazinga.cacheclean/.main$g
+com.bazinga.cacheclean/.main$h
+com.bazinga.cacheclean/.main$j$a
+com.bazinga.cacheclean/.notifyAlarm$b
+com.bazinga.cacheclean/.widget.CacheWidget$UpdateService$b

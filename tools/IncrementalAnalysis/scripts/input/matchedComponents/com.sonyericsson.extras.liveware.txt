@@ -1,0 +1,9 @@
+com.sonyericsson.extras.liveware
+com.sonyericsson.extras.liveware/.aas.AasGatt
+com.sonyericsson.extras.liveware/.aas.BtUtils
+com.sonyericsson.extras.liveware/.actions.bluetooth.a2dp.ReflectedBluetoothClass
+com.sonyericsson.extras.liveware/.actions.bluetooth.a2dp.ReflectedBluetoothProfile
+com.sonyericsson.extras.liveware/.utils.ReflectionUtils
+com.sonyericsson.extras.liveware/.actions.datatraffic.DataTrafficAction
+com.sonyericsson.extras.liveware/.actions.wifi.WifiHotspot
+com.sonyericsson.extras.liveware/.ui.FlapActivity

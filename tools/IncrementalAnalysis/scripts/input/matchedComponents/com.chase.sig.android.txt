@@ -1,0 +1,7 @@
+com.chase.sig.android
+com.chase.sig.android/.activity.hybrid.JsInterfaceWrapper
+com.chase.sig.android/.activity.TaskContext
+com.chase.sig.android/.uicore.fragment.JPFragment
+com.chase.sig.android/.ChaseApplication
+com.chase.sig.android/.activity.JPActivity
+com.chase.sig.android

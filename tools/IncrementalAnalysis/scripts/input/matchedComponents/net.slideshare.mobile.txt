@@ -1,0 +1,2 @@
+net.slideshare.mobile
+net.slideshare.mobile/.providers.SyncService$SyncType

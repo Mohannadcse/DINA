@@ -1,0 +1,5 @@
+com.amazon.mp3
+com.amazon.mp3/.library.provider.source.nowplaying.NowPlayingCollectionHandler$6
+com.amazon.mp3/.net.cirrus.CirrusExceptions
+com.amazon.mp3/.net.playlist.MusicPlaylistExceptions
+com.amazon.mp3/.util.StorageInfo$HtcWithInternalStorageInfo

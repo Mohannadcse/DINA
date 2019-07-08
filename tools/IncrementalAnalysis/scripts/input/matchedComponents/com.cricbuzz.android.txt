@@ -1,0 +1,2 @@
+com.cricbuzz.android
+com.cricbuzz.android/.lithium.app.view.custom.c$b

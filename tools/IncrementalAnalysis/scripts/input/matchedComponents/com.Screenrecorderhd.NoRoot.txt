@@ -1,0 +1,2 @@
+com.Screenrecorderhd.NoRoot
+com.Screenrecorderhd.NoRoot/.OverlayService

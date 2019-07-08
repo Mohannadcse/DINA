@@ -1,0 +1,4 @@
+com.mobisystems.office
+com.mobisystems.office/.MSApp
+com.mobisystems.office/.b.a
+com.mobisystems.office/.googleAnaliticsTracker.b

@@ -1,0 +1,2 @@
+com.jiinfeng3d.bfrdemo
+com.jiinfeng3d.bfrdemo/.S3DSurfaceView

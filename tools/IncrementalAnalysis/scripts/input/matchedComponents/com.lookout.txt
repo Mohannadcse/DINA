@@ -1,0 +1,4 @@
+com.lookout
+com.lookout/.acron.scheduler.internal.u
+com.lookout/.androidsecurity.runtime.a
+com.lookout/.networksecurity.network.i

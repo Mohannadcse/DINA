@@ -1,0 +1,3 @@
+com.revanen.athkar
+com.revanen.athkar/.MainScreenActivity
+com.revanen.athkar/.common.util.AthkarUtil

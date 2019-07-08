@@ -1,0 +1,6 @@
+org.coolreader
+org.coolreader/.crengine.BaseActivity
+org.coolreader/.crengine.N2EpdController
+org.coolreader/.crengine.TTS
+org.coolreader/.crengine.Utils
+org.coolreader/.crengine.VMRuntimeHack

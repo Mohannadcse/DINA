@@ -1,0 +1,2 @@
+air.com.ubisoft.csi.HiddenCrimes
+air.com.ubisoft.csi.HiddenCrimes/.AppEntry

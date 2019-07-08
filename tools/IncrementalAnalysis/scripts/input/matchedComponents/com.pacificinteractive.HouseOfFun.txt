@@ -1,0 +1,2 @@
+com.pacificinteractive.HouseOfFun
+com.pacificinteractive.HouseOfFun/.NoSSLv3Factory$NoSSLv3SSLSocket

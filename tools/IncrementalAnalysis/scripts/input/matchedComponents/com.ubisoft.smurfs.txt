@@ -1,0 +1,2 @@
+com.ubisoft.smurfs
+com.ubisoft.smurfs/.SparkActivity

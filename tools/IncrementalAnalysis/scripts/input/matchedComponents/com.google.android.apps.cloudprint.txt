@@ -1,0 +1,2 @@
+com.google.android.apps.cloudprint
+com.google.android.apps.cloudprint/.printdialog.PreferencesActivity

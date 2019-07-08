@@ -1,0 +1,4 @@
+com.agoda.mobile.consumer
+com.agoda.mobile.consumer/.data.provider.AndroidDeviceInfoProvider
+com.agoda.mobile.consumer/.helper.Utilities
+com.agoda.mobile.consumer/.screens.home.HomeActivity

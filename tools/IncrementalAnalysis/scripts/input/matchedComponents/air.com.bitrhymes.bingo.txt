@@ -1,0 +1,2 @@
+air.com.bitrhymes.bingo
+air.com.bitrhymes.bingo/.AppEntry

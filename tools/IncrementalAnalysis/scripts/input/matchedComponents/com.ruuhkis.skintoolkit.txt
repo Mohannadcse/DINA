@@ -1,0 +1,3 @@
+com.ruuhkis.skintoolkit
+com.ruuhkis.skintoolkit/.views.ToolView
+com.ruuhkis.skintoolkit/.views.colorchooser.ColorChooserType

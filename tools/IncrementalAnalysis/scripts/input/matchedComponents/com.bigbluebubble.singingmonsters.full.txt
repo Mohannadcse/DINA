@@ -1,0 +1,2 @@
+com.bigbluebubble.singingmonsters.full
+com.bigbluebubble.singingmonsters.full/.MyActivity

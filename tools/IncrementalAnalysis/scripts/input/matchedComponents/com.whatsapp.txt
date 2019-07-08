@@ -1,0 +1,11 @@
+com.whatsapp
+com.whatsapp/.data.et
+com.whatsapp/.ViewSharedContactArrayActivity
+com.whatsapp/.filter.FilterUtils
+com.whatsapp/.k.c
+com.whatsapp/.messaging.r
+com.whatsapp/.n.g
+com.whatsapp/.notification.a.h
+com.whatsapp/.u
+com.whatsapp/.util.by
+com.whatsapp/.util.undobar.a

@@ -1,0 +1,5 @@
+com.sec.spp.push
+com.sec.spp.push/.notisvc.a
+com.sec.spp.push/.notisvc.card.q
+com.sec.spp.push/.notisvc.display.c
+com.sec.spp.push/.util.i

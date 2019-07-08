@@ -1,0 +1,2 @@
+com.ea.game.easportsufc_row
+com.ea.game.easportsufc_row/.samplegame

@@ -1,0 +1,15 @@
+com.gameloft.android.ANMP.GloftDKHM
+com.gameloft.android.ANMP.GloftDKHM/.GLUtils.Device
+com.gameloft.android.ANMP.GloftDKHM/.Game
+com.gameloft.android.ANMP.GloftDKHM/.SendInfo
+com.gameloft.android.ANMP.GloftDKHM/.SplashScreen
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPActivity$2
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPHelper$2$1
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPHelper$3$1
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPHelper$3$2
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPHelper$6
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPHelper$7
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPHelper$8
+com.gameloft.android.ANMP.GloftDKHM/.iab.GMPUtils$PurchaseRequest
+com.gameloft.android.ANMP.GloftDKHM/.iab.InAppBilling$4
+com.gameloft.android.ANMP.GloftDKHM/.iab.ServerInfo$1

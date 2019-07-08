@@ -1,0 +1,7 @@
+com.mercadolibre
+com.mercadolibre/.activities.AbstractActivity
+com.mercadolibre/.activities.syi.SellFlowActivity
+com.mercadolibre/.android.b.c
+com.mercadolibre/.android.checkout.common.activities.CheckoutAbstractActivity
+com.mercadolibre/.android.classifieds.homes.helpers.VerticalIntents
+com.mercadolibre/.android.notifications.managers.NotificationManager

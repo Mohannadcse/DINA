@@ -1,0 +1,2 @@
+com.igg.clash_of_lords
+com.igg.clash_of_lords/.gem_webview$1

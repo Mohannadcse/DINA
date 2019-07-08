@@ -1,0 +1,2 @@
+com.evozi.injector
+com.evozi.injector/.ProtectedBaseApplication

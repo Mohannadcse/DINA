@@ -1,0 +1,3 @@
+com.asus.contacts
+com.asus.contacts/.floatingwindow.a
+com.asus.contacts/.yellowpage.s

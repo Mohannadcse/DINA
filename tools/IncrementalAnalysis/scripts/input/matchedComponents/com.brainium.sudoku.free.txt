@@ -1,0 +1,2 @@
+com.brainium.sudoku.free
+com.brainium.sudoku.free

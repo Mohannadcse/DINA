@@ -1,0 +1,16 @@
+com.lionmobi.netmaster
+com.lionmobi.netmaster/.activity.AboutActivity
+com.lionmobi.netmaster/.activity.SpeedBoostActivity$a
+com.lionmobi.netmaster/.activity.SpeedBoostActivity
+com.lionmobi.netmaster/.d.b
+com.lionmobi.netmaster/.manager.p
+com.lionmobi.netmaster/.powerApp.a
+com.lionmobi.netmaster/.powerApp.b
+com.lionmobi.netmaster/.utils.ac
+com.lionmobi.netmaster/.utils.ag
+com.lionmobi.netmaster/.utils.ak
+com.lionmobi.netmaster/.utils.bd
+com.lionmobi.netmaster/.utils.e
+com.lionmobi.netmaster/.utils.g
+com.lionmobi.netmaster/.utils.m
+com.lionmobi.netmaster/.utils.r

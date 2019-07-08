@@ -1,0 +1,2 @@
+pl.speedtest.android
+pl.speedtest.android/.DeviceInfoHelper

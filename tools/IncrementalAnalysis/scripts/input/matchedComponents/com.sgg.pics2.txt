@@ -1,0 +1,3 @@
+com.sgg.pics2
+com.sgg.pics2/.MonkeyGame$MonkeyView
+com.sgg.pics2/.MonkeyGame

@@ -1,0 +1,4 @@
+com.Dominos
+com.Dominos/.GCMIntentService$1
+com.Dominos/.GCMIntentService
+com.Dominos/.SplashScreen

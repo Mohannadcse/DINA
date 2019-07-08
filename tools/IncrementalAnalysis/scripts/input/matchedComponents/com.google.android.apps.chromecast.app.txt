@@ -1,0 +1,2 @@
+com.google.android.apps.chromecast.app
+com.google.android.apps.chromecast.app/.mirror.CastScreenActivity

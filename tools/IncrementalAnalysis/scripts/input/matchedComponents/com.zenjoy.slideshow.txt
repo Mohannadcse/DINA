@@ -1,0 +1,2 @@
+com.zenjoy.slideshow
+com.zenjoy.slideshow/.g.d

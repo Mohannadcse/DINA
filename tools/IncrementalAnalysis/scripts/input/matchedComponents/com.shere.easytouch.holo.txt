@@ -1,0 +1,8 @@
+com.shere.easytouch.holo
+com.shere.easytouch.holo/.c.b
+com.shere.easytouch.holo/.c.d
+com.shere.easytouch.holo/.c.h
+com.shere.easytouch.holo/.g.a
+com.shere.easytouch.holo/.i.p
+com.shere.easytouch.holo/.i.y
+com.shere.easytouch.holo/.ui.ViewPager

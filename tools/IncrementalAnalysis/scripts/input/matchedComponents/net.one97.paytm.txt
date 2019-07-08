@@ -1,0 +1,2 @@
+net.one97.paytm
+net.one97.paytm/.marketplace.widgets.widget.RecyclerView

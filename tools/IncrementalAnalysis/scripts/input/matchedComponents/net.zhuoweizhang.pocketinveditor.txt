@@ -1,0 +1,4 @@
+net.zhuoweizhang.pocketinveditor
+net.zhuoweizhang.pocketinveditor/.io.nbt.NBTConverter
+net.zhuoweizhang.pocketinveditor/.io.nbt.tileentity.TileEntityStoreLookupService
+net.zhuoweizhang.pocketinveditor/.EntitiesInfoActivity

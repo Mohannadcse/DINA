@@ -1,0 +1,2 @@
+com.gettaxi.android
+com.gettaxi.android/.broadcast.GettaxiInstallReferrer

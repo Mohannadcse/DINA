@@ -1,0 +1,2 @@
+com.jetstartgames.chess
+com.jetstartgames.chess/.d

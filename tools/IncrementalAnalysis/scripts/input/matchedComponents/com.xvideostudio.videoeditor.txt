@@ -1,0 +1,4 @@
+com.xvideostudio.videoeditor
+com.xvideostudio.videoeditor/.tool.l
+com.xvideostudio.videoeditor/.util.af
+com.xvideostudio.videoeditor/.util.ag

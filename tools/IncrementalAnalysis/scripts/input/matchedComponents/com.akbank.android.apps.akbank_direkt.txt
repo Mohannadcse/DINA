@@ -1,0 +1,1 @@
+com.akbank.android.apps.akbank_direkt

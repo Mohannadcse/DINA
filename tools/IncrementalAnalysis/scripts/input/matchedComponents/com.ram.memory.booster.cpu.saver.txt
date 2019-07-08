@@ -1,0 +1,3 @@
+com.ram.memory.booster.cpu.saver
+com.ram.memory.booster.cpu.saver/.alternative.CleanerCache$cleanCaches
+com.ram.memory.booster.cpu.saver/.alternative.CleanerCache$getAppsCacheSize

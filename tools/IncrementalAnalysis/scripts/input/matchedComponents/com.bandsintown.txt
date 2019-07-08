@@ -1,0 +1,2 @@
+com.bandsintown
+com.bandsintown/.library.core.util.a$b

@@ -1,0 +1,4 @@
+org.videolan.vlc.betav7neon
+org.videolan.vlc.betav7neon/.audio.AudioServiceController
+org.videolan.vlc.betav7neon/.gui.video.VideoPlayerActivity
+org.videolan.vlc.betav7neon/.widget.SlidingPaneLayout$SlidingPanelLayoutImplJB

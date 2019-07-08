@@ -1,0 +1,2 @@
+com.wordsmobile.musichero
+com.wordsmobile.musichero/.MusicHeroActivity

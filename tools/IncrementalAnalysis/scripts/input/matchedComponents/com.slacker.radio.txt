@@ -1,0 +1,3 @@
+com.slacker.radio
+com.slacker.radio/.impl.a
+com.slacker.radio/.media.streaming.impl.JsonRemoteResource

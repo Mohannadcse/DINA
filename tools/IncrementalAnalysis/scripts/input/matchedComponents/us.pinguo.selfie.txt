@@ -1,0 +1,2 @@
+us.pinguo.selfie
+us.pinguo.selfie/.multidex.a

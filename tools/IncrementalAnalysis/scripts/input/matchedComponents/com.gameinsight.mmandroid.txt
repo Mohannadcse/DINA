@@ -1,0 +1,2 @@
+com.gameinsight.mmandroid
+com.gameinsight.mmandroid/.utils.MiscFuncs$VMRuntimeHack

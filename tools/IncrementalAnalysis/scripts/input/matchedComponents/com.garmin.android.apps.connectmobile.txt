@@ -1,0 +1,8 @@
+com.garmin.android.apps.connectmobile
+com.garmin.android.apps.connectmobile/.bic.device.n
+com.garmin.android.apps.connectmobile/.bic.i
+com.garmin.android.apps.connectmobile/.devices.GarminDeviceWakefulService
+com.garmin.android.apps.connectmobile/.devices.setup.BLEDeviceSetupActivity$a
+com.garmin.android.apps.connectmobile/.devices.setup.BLEScanningActivity$b
+com.garmin.android.apps.connectmobile/.devices.setup.wizard.a
+com.garmin.android.apps.connectmobile/.e.e

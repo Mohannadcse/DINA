@@ -1,0 +1,3 @@
+com.bradesco
+com.bradesco/br.com.bradesco.integrador.utils.encripty.aes.AesCBCWithIntegrity$PrngFixes
+com.bradesco

@@ -1,0 +1,4 @@
+com.piriform.ccleaner
+com.piriform.ccleaner/.a.a.l
+com.piriform.ccleaner/.m.e
+com.piriform.ccleaner/.t.l

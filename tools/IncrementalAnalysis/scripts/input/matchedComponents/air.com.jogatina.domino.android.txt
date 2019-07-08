@@ -1,0 +1,2 @@
+air.com.jogatina.domino.android
+air.com.jogatina.domino.android/.AppEntry

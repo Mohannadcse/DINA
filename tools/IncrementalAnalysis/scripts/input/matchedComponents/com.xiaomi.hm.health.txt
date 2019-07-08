@@ -1,0 +1,6 @@
+com.xiaomi.hm.health
+com.xiaomi.hm.health/.baseui.d.b
+com.xiaomi.hm.health/.baseui.e
+com.xiaomi.hm.health/.baseui.recyclerview.a.a
+com.xiaomi.hm.health/.bt.d.a
+com.xiaomi.hm.health/.t.i

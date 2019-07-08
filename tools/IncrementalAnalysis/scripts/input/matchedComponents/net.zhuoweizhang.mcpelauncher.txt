@@ -1,0 +1,5 @@
+net.zhuoweizhang.mcpelauncher
+net.zhuoweizhang.mcpelauncher/.ui.MainMenuOptionsActivity
+net.zhuoweizhang.mcpelauncher/.WrappedPackageManager
+net.zhuoweizhang.mcpelauncher/.ScriptTextureDownloader
+net.zhuoweizhang.mcpelauncher/.ScriptTranslationCache

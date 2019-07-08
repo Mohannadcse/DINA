@@ -1,0 +1,3 @@
+com.optimesoftware.tictactoe.free
+com.optimesoftware.tictactoe.free/.PromoScreen
+com.optimesoftware.tictactoe.free/.o

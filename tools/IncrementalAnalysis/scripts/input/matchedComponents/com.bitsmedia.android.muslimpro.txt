@@ -1,0 +1,3 @@
+com.bitsmedia.android.muslimpro
+com.bitsmedia.android.muslimpro/.activities.MainActivity
+com.bitsmedia.android.muslimpro/.at

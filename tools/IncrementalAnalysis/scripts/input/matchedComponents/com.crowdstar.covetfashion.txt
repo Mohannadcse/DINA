@@ -1,0 +1,4 @@
+com.crowdstar.covetfashion
+com.crowdstar.covetfashion/.CovetActivity
+com.crowdstar.covetfashion/.WebViewActivity
+com.crowdstar.covetfashion/.util.NotificationsUtils

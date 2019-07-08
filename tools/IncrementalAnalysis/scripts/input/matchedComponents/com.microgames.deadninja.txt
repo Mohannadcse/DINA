@@ -1,0 +1,3 @@
+com.microgames.deadninja
+com.microgames.deadninja/.Gamepad
+com.microgames.deadninja/.RunnerActivity

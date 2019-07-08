@@ -1,0 +1,2 @@
+com.gotv.crackle.handset
+com.gotv.crackle.handset/.views.PlayerFrame

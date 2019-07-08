@@ -1,0 +1,3 @@
+net.SandStormEarl.WC3
+net.SandStormEarl.WC3/.Gamepad
+net.SandStormEarl.WC3/.RunnerActivity

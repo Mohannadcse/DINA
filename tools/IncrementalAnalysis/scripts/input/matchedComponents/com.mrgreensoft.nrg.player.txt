@@ -1,0 +1,9 @@
+com.mrgreensoft.nrg.player
+com.mrgreensoft.nrg.player/.control.widget.WidgetProvider
+com.mrgreensoft.nrg.player/.playback.logic.a.b.a
+com.mrgreensoft.nrg.player/.playback.ui.LockScreenActivity
+com.mrgreensoft.nrg.player/.playback.ui.PlaybackActivity
+com.mrgreensoft.nrg.player/.playback.ui.a.e
+com.mrgreensoft.nrg.player/.settings.theme.color.ui.ColorPickerActivity
+com.mrgreensoft.nrg.player/.utils.c
+com.mrgreensoft.nrg.player/.utils.ui.d

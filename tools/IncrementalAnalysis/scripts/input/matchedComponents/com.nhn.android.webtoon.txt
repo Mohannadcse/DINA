@@ -1,0 +1,5 @@
+com.nhn.android.webtoon
+com.nhn.android.webtoon/.api.c$b
+com.nhn.android.webtoon/.api.comic.b.f
+com.nhn.android.webtoon/.common.widget.CarouselViewPager
+com.nhn.android.webtoon/.common.widget.recycler.b

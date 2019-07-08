@@ -1,0 +1,4 @@
+com.gau.go.dynamicscreen.egg
+com.gau.go.dynamicscreen.egg/.c
+com.gau.go.dynamicscreen.egg/.model.GraphObject$Factory$ProxyBase
+com.gau.go.dynamicscreen.egg/.widget.d

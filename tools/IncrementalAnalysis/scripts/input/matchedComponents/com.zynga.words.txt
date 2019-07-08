@@ -1,0 +1,3 @@
+com.zynga.words
+com.zynga.words/2.ui.ads.Words2HouseAdActivity
+com.zynga.words/2.ui.main.gamelist.RecyclerViewAdapter

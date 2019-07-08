@@ -1,0 +1,3 @@
+com.facebook.katana
+com.facebook.katana/.webview.provider.ImageCacheContentProvider
+com.facebook.katana/.util.FqlQueryBuilderUtils

@@ -1,0 +1,3 @@
+com.commsource.beautyplus
+com.commsource.beautyplus/.filtercenter.widget.Banner
+com.commsource.beautyplus/.filtercenter.widget.HomeBanner

@@ -1,0 +1,2 @@
+com.igg.android.clashoflords2es
+com.igg.android.clashoflords2es/.gem_webview$1

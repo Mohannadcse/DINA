@@ -1,0 +1,2 @@
+com.askfm
+com.askfm/.core.adapter.ViewPagerAdapter

@@ -1,0 +1,2 @@
+air.com.spilgames.TrollFaceQuestVideoGames
+air.com.spilgames.TrollFaceQuestVideoGames/.AppEntry

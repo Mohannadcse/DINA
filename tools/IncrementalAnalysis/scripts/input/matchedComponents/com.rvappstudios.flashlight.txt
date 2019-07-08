@@ -1,0 +1,12 @@
+com.rvappstudios.flashlight
+com.rvappstudios.flashlight/.MainActivity$27
+com.rvappstudios.flashlight/.MainActivity$28
+com.rvappstudios.flashlight/.MainActivity$37
+com.rvappstudios.flashlight/.MainActivity$45$2
+com.rvappstudios.flashlight/.MainActivity
+com.rvappstudios.flashlight/.MapView$3
+com.rvappstudios.flashlight/.MapView
+com.rvappstudios.flashlight/.MyWidgetIntentReceiver
+com.rvappstudios.flashlight/.NotificationDisable
+com.rvappstudios.flashlight/.SocialNetwork
+com.rvappstudios.flashlight/.TimerDecreaseTime$2

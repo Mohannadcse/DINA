@@ -1,0 +1,2 @@
+com.intsig.camscanner
+com.intsig.camscanner/.a.bz

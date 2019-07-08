@@ -1,0 +1,2 @@
+com.dailymotion.dailymotion
+com.dailymotion.dailymotion/.ui.video.pip.PictureInPictureView$2

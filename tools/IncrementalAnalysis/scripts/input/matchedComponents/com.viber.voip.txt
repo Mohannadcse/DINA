@@ -1,0 +1,9 @@
+com.viber.voip
+com.viber.voip/.HomeActivity
+com.viber.voip/.ViberApplication
+com.viber.voip/.pixie.jni.UnblockerControllerFacade
+com.viber.voip/.process.ProcessBoundTasks
+com.viber.voip/.registration.ax
+com.viber.voip/.util.ba
+com.viber.voip/.util.r$a
+com.viber.voip/.util.r

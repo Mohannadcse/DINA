@@ -1,0 +1,2 @@
+com.burakgon.dnschanger
+com.burakgon.dnschanger

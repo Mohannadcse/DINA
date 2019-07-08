@@ -1,0 +1,2 @@
+com.creapp.photoeditor
+com.creapp.photoeditor/.magicEffectsNew.tools.MultiTouchController

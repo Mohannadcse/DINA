@@ -1,0 +1,5 @@
+com.capigami.outofmilk
+com.capigami.outofmilk/.MainActivity
+com.capigami.outofmilk/.activerecord.ActiveRecord
+com.capigami.outofmilk/.activity.FragmentContainerActivity
+com.capigami.outofmilk

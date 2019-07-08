@@ -1,0 +1,2 @@
+com.cpuid.cpu_z
+com.cpuid.cpu_z/.ao

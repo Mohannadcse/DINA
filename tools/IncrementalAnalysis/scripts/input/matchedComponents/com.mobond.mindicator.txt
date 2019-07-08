@@ -1,0 +1,2 @@
+com.mobond.mindicator
+com.mobond.mindicator/.ui.indianrail.irplugin.IRParserProvider

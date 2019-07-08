@@ -1,0 +1,2 @@
+com.foxnews.android
+com.foxnews.android/.util.TestUtil

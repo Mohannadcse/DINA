@@ -1,0 +1,2 @@
+com.csam.icici.bank.imobile
+com.csam.icici.bank.imobile/.ay

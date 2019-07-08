@@ -1,0 +1,10 @@
+com.jiubang.browser
+com.jiubang.browser/.androidwebkit.WebSettingsWrapper
+com.jiubang.browser/.androidwebkit.WebViewWrapper
+com.jiubang.browser/.commerce.ui.lucky.LuckyShuffleView$b
+com.jiubang.browser/.e.k
+com.jiubang.browser/.e.n
+com.jiubang.browser/.e.p
+com.jiubang.browser/.extensions.d
+com.jiubang.browser/.extensions.f
+com.jiubang.browser/.main.v

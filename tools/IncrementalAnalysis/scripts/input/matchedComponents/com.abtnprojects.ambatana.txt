@@ -1,0 +1,3 @@
+com.abtnprojects.ambatana
+com.abtnprojects.ambatana/.presentation.j
+com.abtnprojects.ambatana/.presentation.util.VerticalViewPager

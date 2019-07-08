@@ -1,0 +1,2 @@
+com.gamevil.kritikamobile.android.google.global.normal
+com.gamevil.kritikamobile.android.google.global.normal/.JniLib1506047023

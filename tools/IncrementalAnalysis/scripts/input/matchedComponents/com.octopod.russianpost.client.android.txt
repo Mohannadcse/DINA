@@ -1,0 +1,2 @@
+com.octopod.russianpost.client.android
+com.octopod.russianpost.client.android/.a.b.am

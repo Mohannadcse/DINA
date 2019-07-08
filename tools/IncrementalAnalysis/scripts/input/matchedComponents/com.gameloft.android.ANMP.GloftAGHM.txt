@@ -1,0 +1,4 @@
+com.gameloft.android.ANMP.GloftAGHM
+com.gameloft.android.ANMP.GloftAGHM/.GLUtils.Device
+com.gameloft.android.ANMP.GloftAGHM/.PackageUtils.AdBlockerPlugin
+com.gameloft.android.ANMP.GloftAGHM/.PackageUtils.PluginSystem.b

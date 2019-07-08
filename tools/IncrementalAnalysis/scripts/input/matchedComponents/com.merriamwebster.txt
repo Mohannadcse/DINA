@@ -1,0 +1,2 @@
+com.merriamwebster
+com.merriamwebster/.dictionary.activity.c.a

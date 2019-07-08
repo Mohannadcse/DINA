@@ -1,0 +1,10 @@
+com.microsoft.launcher
+com.microsoft.launcher/.BasePage
+com.microsoft.launcher/.Launcher
+com.microsoft.launcher/.next.model.notification.a.d
+com.microsoft.launcher/.next.utils.ToolUtils
+com.microsoft.launcher/.notes.views.c
+com.microsoft.launcher/.utils.as
+com.microsoft.launcher/.utils.c
+com.microsoft.launcher/.utils.swipeback.e
+com.microsoft.launcher/.wallpaper.dal.c

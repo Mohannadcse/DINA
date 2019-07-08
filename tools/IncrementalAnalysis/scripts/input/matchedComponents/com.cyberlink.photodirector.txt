@@ -1,0 +1,3 @@
+com.cyberlink.photodirector
+com.cyberlink.photodirector/.Globals
+com.cyberlink.photodirector/.kernelctrl.af

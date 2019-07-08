@@ -1,0 +1,2 @@
+air.com.aceviral.mutantfightingcup2
+air.com.aceviral.mutantfightingcup2/.AppEntry

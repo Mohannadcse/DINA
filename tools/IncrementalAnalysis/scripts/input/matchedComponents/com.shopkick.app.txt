@@ -1,0 +1,5 @@
+com.shopkick.app
+com.shopkick.app/.activities.BaseActivity
+com.shopkick.app/.fetchers.api.APIManager
+com.shopkick.app/.overlays.OverlaysManager
+com.shopkick.app/.queue.SKPersistentQueue

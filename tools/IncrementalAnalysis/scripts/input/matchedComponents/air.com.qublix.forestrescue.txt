@@ -1,0 +1,2 @@
+air.com.qublix.forestrescue
+air.com.qublix.forestrescue/.AppEntry

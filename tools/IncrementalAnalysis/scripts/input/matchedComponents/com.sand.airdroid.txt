@@ -1,0 +1,5 @@
+com.sand.airdroid
+com.sand.airdroid/.ProtectedSandApp
+com.sand.airdroid/.base.NetworkHelper
+com.sand.airdroid/.base.OSHelper
+com.sand.airdroid/.components.notification.AirNotificationManager

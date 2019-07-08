@@ -1,0 +1,1 @@
+com.notabasement.mangarock.android.titan

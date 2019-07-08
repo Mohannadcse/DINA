@@ -1,0 +1,2 @@
+com.babbel.mobile.android.en
+com.babbel.mobile.android.en/.i.a

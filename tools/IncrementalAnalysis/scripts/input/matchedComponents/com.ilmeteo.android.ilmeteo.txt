@@ -1,0 +1,2 @@
+com.ilmeteo.android.ilmeteo
+com.ilmeteo.android.ilmeteo/.utils.PreferenceFragment

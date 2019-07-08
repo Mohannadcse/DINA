@@ -1,0 +1,4 @@
+com.turbochilli.rollingsky
+com.turbochilli.rollingsky/.ipc.SyncIpcProvider$a
+com.turbochilli.rollingsky/.webview.ui.WebViewActivity
+com.turbochilli.rollingsky/.webview.util.NetStatReceiver

@@ -1,0 +1,3 @@
+com.azarlive.android
+com.azarlive.android/.AbnormalFriendListActivity$b
+com.azarlive.android/.activity.IabWebViewActivity

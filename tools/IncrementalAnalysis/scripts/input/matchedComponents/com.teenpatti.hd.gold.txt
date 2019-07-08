@@ -1,0 +1,2 @@
+com.teenpatti.hd.gold
+com.teenpatti.hd.gold/.LocalNetworkManager

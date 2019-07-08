@@ -1,0 +1,3 @@
+com.sp.smartgallery.free
+com.sp.smartgallery.free/.GalleryActivity
+com.sp.smartgallery.free/.ProgressService

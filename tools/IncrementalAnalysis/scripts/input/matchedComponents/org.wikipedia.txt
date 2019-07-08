@@ -1,0 +1,2 @@
+org.wikipedia
+org.wikipedia/.offline.CompilationSearchTask

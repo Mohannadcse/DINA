@@ -1,0 +1,2 @@
+com.cw.fullepisodes.android
+com.cw.fullepisodes.android/.view.CwVideoPlayer

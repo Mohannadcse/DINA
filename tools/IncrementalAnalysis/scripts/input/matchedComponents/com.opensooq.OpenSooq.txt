@@ -1,0 +1,3 @@
+com.opensooq.OpenSooq
+com.opensooq.OpenSooq/.App
+com.opensooq.OpenSooq/.config.h

@@ -1,0 +1,2 @@
+com.ubisoft.assassin.pirates
+com.ubisoft.assassin.pirates/.SparkActivity

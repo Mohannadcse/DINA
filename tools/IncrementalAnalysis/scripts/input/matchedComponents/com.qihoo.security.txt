@@ -1,0 +1,6 @@
+com.qihoo.security
+com.qihoo.security/.app.DaemonMain
+com.qihoo.security/.j.a
+com.qihoo.security/.locale.ExtResources
+com.qihoo.security/.notificationaccess.b
+com.qihoo.security/.notify.ShortCutNotification

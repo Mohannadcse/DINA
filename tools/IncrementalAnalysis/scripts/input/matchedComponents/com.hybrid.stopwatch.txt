@@ -1,0 +1,3 @@
+com.hybrid.stopwatch
+com.hybrid.stopwatch/.NotifyService
+com.hybrid.stopwatch/.NotifyServiceTimer

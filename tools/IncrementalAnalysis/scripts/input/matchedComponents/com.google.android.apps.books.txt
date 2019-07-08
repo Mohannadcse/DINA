@@ -1,0 +1,7 @@
+com.google.android.apps.books
+com.google.android.apps.books/.app.BaseBooksActivity
+com.google.android.apps.books/.ublib.utils.PRNGFixes
+com.google.android.apps.books/.util.InterfaceCallLogger$LoggingInvocationHandler
+com.google.android.apps.books/.util.LogUtil
+com.google.android.apps.books/.util.QuickUtils
+com.google.android.apps.books/.util.StorageUtils

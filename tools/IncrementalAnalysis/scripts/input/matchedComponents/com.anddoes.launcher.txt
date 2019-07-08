@@ -1,0 +1,2 @@
+com.anddoes.launcher
+com.anddoes.launcher/.a.a

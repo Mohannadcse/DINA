@@ -1,0 +1,2 @@
+com.oasisfeng.greenify
+com.oasisfeng.greenify/.pro.GreenifySettings

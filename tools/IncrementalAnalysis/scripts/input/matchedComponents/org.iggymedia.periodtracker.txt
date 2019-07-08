@@ -1,0 +1,3 @@
+org.iggymedia.periodtracker
+org.iggymedia.periodtracker/.content.assistant.AssistantDialog
+org.iggymedia.periodtracker/.ui.events.EventSubCategory

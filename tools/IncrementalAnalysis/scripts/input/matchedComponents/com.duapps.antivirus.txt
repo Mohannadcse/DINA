@@ -1,0 +1,16 @@
+com.duapps.antivirus
+com.duapps.antivirus/.base.ao
+com.duapps.antivirus/.base.az
+com.duapps.antivirus/.base.bm
+com.duapps.antivirus/.base.d
+com.duapps.antivirus/.base.q
+com.duapps.antivirus/.c.h
+com.duapps.antivirus/.card.o
+com.duapps.antivirus/.card.r
+com.duapps.antivirus/.e.ae
+com.duapps.antivirus/.e.ai
+com.duapps.antivirus/.e.r
+com.duapps.antivirus/.e.t
+com.duapps.antivirus/.scene.AlertViews$ReflectionAction
+com.duapps.antivirus/.trash.e.s
+com.duapps.antivirus/.ui.activity.d

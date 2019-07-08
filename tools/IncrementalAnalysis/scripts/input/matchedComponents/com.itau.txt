@@ -1,0 +1,2 @@
+com.itau
+com.itau/br.com.itau.security.commons.PRNGFixes

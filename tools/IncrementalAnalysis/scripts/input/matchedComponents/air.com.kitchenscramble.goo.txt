@@ -1,0 +1,2 @@
+air.com.kitchenscramble.goo
+air.com.kitchenscramble.goo/.AppEntry

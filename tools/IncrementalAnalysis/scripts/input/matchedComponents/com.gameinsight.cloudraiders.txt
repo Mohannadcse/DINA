@@ -1,0 +1,2 @@
+com.gameinsight.cloudraiders
+com.gameinsight.cloudraiders/.PurchaseObserver

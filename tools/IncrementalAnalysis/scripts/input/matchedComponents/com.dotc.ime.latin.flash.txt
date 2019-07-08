@@ -1,0 +1,1 @@
+com.dotc.ime.latin.flash

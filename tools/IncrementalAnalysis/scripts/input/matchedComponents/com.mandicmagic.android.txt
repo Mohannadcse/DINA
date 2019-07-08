@@ -1,0 +1,1 @@
+com.mandicmagic.android

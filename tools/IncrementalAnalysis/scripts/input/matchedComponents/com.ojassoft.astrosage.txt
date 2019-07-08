@@ -1,0 +1,2 @@
+com.ojassoft.astrosage
+com.ojassoft.astrosage/.ui.fragments.bt

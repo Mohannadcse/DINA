@@ -1,0 +1,15 @@
+ru.mail
+ru.mail/.android.mytracker.a.a.c
+ru.mail/.event.listener.e
+ru.mail/.widget.c
+ru.mail/.instantmessanger.flat.summary.e
+ru.mail/.jproto.wim.a.c
+ru.mail/.libverify.accounts.f
+ru.mail/.libverify.sms.h$a$1
+ru.mail/.libverify.sms.h
+ru.mail/.libverify.utils.j
+ru.mail/.libverify.utils.json.a
+ru.mail/.libverify.utils.k
+ru.mail/.util.DebugUtils
+ru.mail/.widget.a.a
+ru.mail/.widget.a.b

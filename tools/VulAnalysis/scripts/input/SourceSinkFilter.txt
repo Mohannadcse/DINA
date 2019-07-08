@@ -1,0 +1,13 @@
+<com.android.email.activity.MailboxFragmentAdapter: long getId(android.database.Cursor)> -> _SOURCE_
+<com.android.server.location.GeocoderProxy: java.lang.String getFromLocation(double,double,int,android.location.GeocoderParams,java.util.List)> -> _SOURCE_
+<java.net.URL: java.lang.String getQuery()> -> _SOURCE_
+<android.graphics.YuvImage: int getYuvFormat()> -> _SOURCE_
+<java.util.Calendar: java.util.Calendar getInstance(java.util.Locale)> -> _SOURCE_
+<com.android.launcher2.Folder: int getItemCount()> -> _SOURCE_
+<org.apache.harmony.xml.parsers.DocumentBuilderImpl: org.w3c.dom.Document parse(org.xml.sax.InputSource)> -> _SOURCE_
+<android.text.method.TextKeyListener$NullKeyListener: int getInputType()> -> _SOURCE_
+<android.net.rtp.AudioStream: android.net.rtp.AudioGroup getGroup()> -> _SOURCE_
+<android.view.MotionEvent: float getHistoricalSize(int,int)> -> _SOURCE_
+<android.telephony.gsm.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)> -> _SINK_ 
+<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)> -> _SINK_ 
+<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)> android.permission.SEND_SMS -> _SINK_ 

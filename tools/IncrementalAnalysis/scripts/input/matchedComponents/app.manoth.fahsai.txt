@@ -1,0 +1,5 @@
+app.manoth.fahsai
+app.manoth.fahsai/.Main
+app.manoth.fahsai/.WearReceiver$27
+app.manoth.fahsai/.WearReceiver$28
+app.manoth.fahsai/.WearReceiver

@@ -1,0 +1,5 @@
+com.drippler.android.updates
+com.drippler.android.updates/.communication.i
+com.drippler.android.updates/.utils.bg$c
+com.drippler.android.updates/.utils.z$a
+com.drippler.android.updates/.views.DripViewPager

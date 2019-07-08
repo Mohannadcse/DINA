@@ -1,0 +1,2 @@
+ru.auto.ara
+ru.auto.ara/.utils.Clone

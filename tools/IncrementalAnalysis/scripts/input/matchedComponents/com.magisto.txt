@@ -1,0 +1,2 @@
+com.magisto
+com.magisto/.service.background.ForegroundServiceUtility

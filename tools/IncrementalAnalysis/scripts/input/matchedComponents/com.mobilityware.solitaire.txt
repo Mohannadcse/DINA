@@ -1,0 +1,2 @@
+com.mobilityware.solitaire
+com.mobilityware.solitaire/.Solitaire

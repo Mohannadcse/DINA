@@ -1,0 +1,6 @@
+joansoft.dailybible
+joansoft.dailybible/.BibleIndexView
+joansoft.dailybible/.BookmarkDisplayActivity
+joansoft.dailybible/.VersionInit
+joansoft.dailybible/.analytics.Analytics
+joansoft.dailybible/.backup.Backup

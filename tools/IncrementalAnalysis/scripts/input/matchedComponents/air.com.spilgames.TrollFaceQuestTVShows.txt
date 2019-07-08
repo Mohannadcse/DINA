@@ -1,0 +1,2 @@
+air.com.spilgames.TrollFaceQuestTVShows
+air.com.spilgames.TrollFaceQuestTVShows/.AppEntry

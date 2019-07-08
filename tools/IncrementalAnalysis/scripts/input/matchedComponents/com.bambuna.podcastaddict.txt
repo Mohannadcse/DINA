@@ -1,0 +1,3 @@
+com.bambuna.podcastaddict
+com.bambuna.podcastaddict/.activity.VideoPlayerActivity
+com.bambuna.podcastaddict/.e.v

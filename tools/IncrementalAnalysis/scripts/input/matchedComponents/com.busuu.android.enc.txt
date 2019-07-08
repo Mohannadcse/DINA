@@ -1,0 +1,2 @@
+com.busuu.android.enc
+com.busuu.android.enc

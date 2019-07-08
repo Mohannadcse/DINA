@@ -1,0 +1,2 @@
+com.easyx.coolermaster
+com.easyx.coolermaster/.data.AppInfo

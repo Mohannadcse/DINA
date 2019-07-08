@@ -1,0 +1,17 @@
+home.solo.launcher.free
+home.solo.launcher.free/.Launcher
+home.solo.launcher.free/.Workspace
+home.solo.launcher.free/.activities.ResolverActivityKK$c
+home.solo.launcher.free/.c
+home.solo.launcher.free/.common.c.d
+home.solo.launcher.free/.g.f
+home.solo.launcher.free/.g.l
+home.solo.launcher.free/.g.t
+home.solo.launcher.free/.g.w
+home.solo.launcher.free/.quicksetting.a
+home.solo.launcher.free/.screenedit.ScreenEditSlidingView
+home.solo.launcher.free/.services.LauncherService
+home.solo.launcher.free/.solowidget.util.a
+home.solo.launcher.free/.view.DragGridView
+home.solo.launcher.free/.view.dialog.d
+home.solo.launcher.free/.view.webview.SafeWebView

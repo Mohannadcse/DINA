@@ -1,0 +1,2 @@
+com.indianrail.thinkapps.irctc
+com.indianrail.thinkapps.irctc/.sweetalert.OptAnimationLoader

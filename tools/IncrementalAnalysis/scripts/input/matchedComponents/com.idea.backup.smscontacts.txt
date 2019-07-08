@@ -1,0 +1,3 @@
+com.idea.backup.smscontacts
+com.idea.backup.smscontacts/.CrashApplication
+com.idea.backup.smscontacts/.ads.i

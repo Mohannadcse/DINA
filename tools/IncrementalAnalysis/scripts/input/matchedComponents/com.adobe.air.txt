@@ -1,0 +1,5 @@
+com.adobe.air
+com.adobe.air/.AndroidCamera
+com.adobe.air/.AndroidWebView
+com.adobe.air/.GamePreviewAppEntry
+com.adobe.air/.wand.connection.WandWebSocket

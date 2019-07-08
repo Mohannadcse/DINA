@@ -1,0 +1,3 @@
+org.jw.jwlibrary.mobile
+org.jw.jwlibrary.mobile/.util.NoSSLv3SocketFactory$NoSSLv3SSLSocket
+org.jw.jwlibrary.mobile/.util.ViewServer$ViewServerWorker

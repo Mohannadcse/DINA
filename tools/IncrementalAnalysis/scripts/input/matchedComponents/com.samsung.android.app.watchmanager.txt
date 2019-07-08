@@ -1,0 +1,5 @@
+com.samsung.android.app.watchmanager
+com.samsung.android.app.watchmanager/.sdllibrary.PackageController
+com.samsung.android.app.watchmanager/.selibrary.ReflectUtil
+com.samsung.android.app.watchmanager/.setupwizard.PairingFragment$1
+com.samsung.android.app.watchmanager/.setupwizard.PairingFragment$2

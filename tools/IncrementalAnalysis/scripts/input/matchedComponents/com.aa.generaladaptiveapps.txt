@@ -1,0 +1,2 @@
+com.aa.generaladaptiveapps
+com.aa.generaladaptiveapps/.SVProgressHUD

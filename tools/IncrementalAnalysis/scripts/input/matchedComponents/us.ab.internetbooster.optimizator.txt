@@ -1,0 +1,2 @@
+us.ab.internetbooster.optimizator
+us.ab.internetbooster.optimizator/.MainActivity

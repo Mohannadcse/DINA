@@ -1,0 +1,2 @@
+com.kobobooks.android
+com.kobobooks.android/.rakuten.IRakutenDelegatesModule

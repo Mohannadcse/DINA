@@ -1,0 +1,3 @@
+com.capcom.smurfsandroid
+com.capcom.smurfsandroid/.SmurfsAndroid
+com.capcom.smurfsandroid

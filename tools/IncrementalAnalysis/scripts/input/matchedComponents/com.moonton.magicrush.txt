@@ -1,0 +1,2 @@
+com.moonton.magicrush
+com.moonton.magicrush/.GameApplication

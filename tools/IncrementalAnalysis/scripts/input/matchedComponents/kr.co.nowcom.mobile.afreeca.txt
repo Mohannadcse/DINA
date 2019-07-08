@@ -1,0 +1,4 @@
+kr.co.nowcom.mobile.afreeca
+kr.co.nowcom.mobile.afreeca/.broadcast.recordscreen.ui.b.d
+kr.co.nowcom.mobile.afreeca/.old.player.liveplayer.controller.m
+kr.co.nowcom.mobile.afreeca/.widget.FragmentHolderActivity

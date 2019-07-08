@@ -1,0 +1,2 @@
+com.okcupid.okcupid
+com.okcupid.okcupid/.base.Config

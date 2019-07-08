@@ -1,0 +1,2 @@
+com.adobe.reader
+com.adobe.reader/.framework.ui.verticalseekbar.VerticalSeekBar

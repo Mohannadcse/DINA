@@ -1,0 +1,2 @@
+com.runtastic.android
+com.runtastic.android/.service.MusicListenerService
