@@ -15,7 +15,6 @@ DINA
     - Run side-by-side with a virtual machine on a target device.
     - Run on a host machine talking to the target device via JDWP.
     - Used from visualization tool.
-    - And more...
 
 ## 2 Building
 
@@ -38,7 +37,7 @@ Install all the dependencies first. Then
 
 ### 2.2 Ubuntu
 
-Please refer to [Compiling Jitana on Linux](doc/jitana_on_ubuntu.md).
+Please refer to [Compiling Jitana on Linux](https://github.com/ytsutano/jitana/blob/master/doc/jitana_on_ubuntu.md).
 
 
 ## 3 Developer
