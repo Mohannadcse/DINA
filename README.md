@@ -56,5 +56,6 @@ Please refer to [Compiling Jitana on Linux](https://github.com/ytsutano/jitana/b
 
 # Citation
 If you use the source code, please cite the following paper:
+
 M. Alhanahnah et al., "Detecting Vulnerable Android Inter-App Communication in Dynamically Loaded Code," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications, Paris, France, 2019, pp. 550-558.
 
