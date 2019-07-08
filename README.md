@@ -3,7 +3,12 @@ DINA
 
 ## 1 Overview
 
-- A graph-based hybrid DEX code analysis tool.
+- Tgis repo contains the prototype code of DINA, a hybrid analysis tool for identifying potential concealed vulnerable paths through reflection and dynamic class loading between Android Apps.
+
+This work was accepted and will be published at *IEEE International Conference on Computer Communications (INFOCOM) (INFOCOM'19)*.
+
+![picture](images/WorkFlowOfDINA_V4.pdf)
+
 
 ### 1.1 Implementation
 
