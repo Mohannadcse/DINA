@@ -45,19 +45,19 @@ Install all the dependencies first. Then
 Please refer to [Compiling Jitana on Linux](https://github.com/ytsutano/jitana/blob/master/doc/jitana_on_ubuntu.md).
 
 
-## 4 Running DINA
+## 3 Running DINA
 
 According to the workflow, DINA works in three phases, following a description of how to run each phase:
 - [Collective Analysis](tools/CollectiveAnalysis/README.md)
 - [Incremental Analysis](tools/IncrementalAnalysis/README.md)
 - [Vulnerability Analysis](tools/VulAnalysis)
 
-## 5 Developer
+## 4 Developer
 
 - Mohannad Alhanahnah at University of Nebraska-Lincoln.
 - Please note that DINA has been developed on top of [jitana](https://github.com/ytsutano/jitana). Therefore, many of Jitana's libraries have been used as is or adapted.
 
-## 6 License
+## 5 License
 
 - See [LICENSE.md](LICENSE.md) for license rights and limitations (ISC).
 
